@@ -2,19 +2,6 @@ from random import randrange
 from k_mers import get_k_mer
 
 
-def complement(n):
-    '''
-    Recibe una base y regresa la base complementaria
-    '''
-    if n == 'A':
-        return 'T'
-    elif n == 'C':
-        return 'G'
-    elif n == 'G':
-        return 'C'
-    return 'A'
-
-
 def read_fasta(path):
     '''
     Regresa una cadena con la secuencia leida de un archivo fasta\n
@@ -28,8 +15,7 @@ def read_fasta(path):
             if not line:
                 break
             lines.append(line[:-1])
-        sequence = ''.join(lines)
-    return sequence
+    return ''.join(lines)
 
 
 def write_fasta(path, header, sequence):
@@ -49,10 +35,10 @@ def simulate_sequencing(genome, n, min_len, max_len, linear=True):
     Simula la secuenciación de un genoma\n
     Regresa n lecturas con tamaño entre min_len y max_len\n
     '''
+    limit = len(genome) - length if linear else len(genome)
     reads = []
     for _ in range(n):
         length = randrange(min_len, max_len)
-        limit = len(genome) - length if linear else len(genome)
         start = randrange(0, limit)
         reads.append(get_k_mer(genome, length, start))
     return reads

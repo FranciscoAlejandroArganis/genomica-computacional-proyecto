@@ -1,5 +1,6 @@
 from de_bruijn import DeBruijnGraph
-from k_mers import frequency_error_correction, KMerIterator
+from k_mers import KMerIterator
+from error_correction import frequency_error_correction, hamming_distance_error_correction
 from fasta import read_fasta, write_fasta, simulate_sequencing, FastqIterator
 
 
@@ -25,36 +26,44 @@ def write_assembly(k_mers, path, header, unique=True):
 # a partir de los datos de secuenciación reales y simulados
 if __name__ == '__main__':
     k = 35
+    genome = read_fasta('bacata.fasta')
 
     # Todas las lecturas
-    raw_reads = []
+    k_mers = []
     for read, quality in FastqIterator('bacata_reads_1.fastq'):
         for k_mer in KMerIterator(read, k):
-            raw_reads.append(k_mer)
-    write_assembly(raw_reads, 'raw.fasta', 'raw reads')
+            k_mers.append(k_mer)
+    write_assembly(k_mers, 'raw.fasta', 'raw reads')
 
-    # Lecturas con q-score >= 30 y longitud entre 100 y 150
-    quality_reads = []
+    # Lecturas con buena calidad
+    k_mers = []
     for read, quality in FastqIterator('bacata_reads_1.fastq'):
         if min(quality) >= '?' and 100 <= len(read) <= 150:
             for k_mer in KMerIterator(read, k):
-                quality_reads.append(k_mer)
-    write_assembly(quality_reads, 'quality.fasta', 'quality reads')
+                k_mers.append(k_mer)
+    write_assembly(k_mers, 'quality.fasta', 'quality reads')
 
-    # Lecturas con q-score >-0 30 y longitud entre 100 y 150
-    # Solo se toman los k-meros que aparecen más de 4 veces en las lecturas
-    frequency_reads = []
+    # Lecturas corregidas con frecuencias
+    k_mers = []
     for read, quality in FastqIterator('bacata_reads_1.fastq'):
         if min(quality) >= '?' and 100 <= len(read) <= 150:
             for k_mer in KMerIterator(read, k):
-                frequency_reads.append(k_mer)
-    frequency_reads = frequency_error_correction(frequency_reads, 4)
-    write_assembly(frequency_reads, 'frequency.fasta', 'frequency reads')
+                k_mers.append(k_mer)
+    k_mers = frequency_error_correction(k_mers, 4)
+    write_assembly(k_mers, 'frequency.fasta', 'frequency reads')
+
+    # Lecturas corregidas con distancia de Hamming
+    k_mers = []
+    for read, quality in FastqIterator('bacata_reads_1.fastq'):
+        if min(quality) >= '?' and 100 <= len(read) <= 150:
+            for k_mer in KMerIterator(read, k):
+                k_mers.append(k_mer)
+    k_mers = hamming_distance_error_correction(k_mers, 4)
+    write_assembly(k_mers, 'hamming.fasta', 'Hamming distance reads')
 
     # Lecturas simuladas
-    genome = read_fasta('bacata.fasta')
-    simulated_reads = []
+    k_mers = []
     for read in simulate_sequencing(genome, 54495, 100, 150, linear=False):
         for k_mer in KMerIterator(read, k):
-            simulated_reads.append(k_mer)
-    write_assembly(simulated_reads, 'simulated.fasta', 'simulated reads')
+            k_mers.append(k_mer)
+    write_assembly(k_mers, 'simulated.fasta', 'simulated reads')

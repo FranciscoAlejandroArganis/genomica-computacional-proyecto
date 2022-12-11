@@ -8,24 +8,6 @@ def get_k_mer(sequence, k, start):
     return sequence[start:] + sequence[:end - len(sequence)]
 
 
-def frequency_error_correction(k_mers, threshold):
-    '''
-    Recibe una lista de k-meros y regresa una nueva lista\n
-    que contiene a los k-meros que aparecen más de threshold veces
-    '''
-    res = []
-    freq = {}
-    total = 0
-    for k_mer in k_mers:
-        freq[k_mer] = freq.get(k_mer, 0) + 1
-        total += 1
-    while len(k_mers) > 0:
-        k_mer = k_mers.pop()
-        if freq[k_mer] >= threshold:
-            res.append(k_mer)
-    return res
-
-
 class KMerIterator:
     '''
     Clase que permite iterar por todos los k-meros de una cadena\n
