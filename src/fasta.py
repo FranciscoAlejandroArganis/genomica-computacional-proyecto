@@ -35,10 +35,10 @@ def simulate_sequencing(genome, n, min_len, max_len, linear=True):
     Simula la secuenciación de un genoma\n
     Regresa n lecturas con tamaño entre min_len y max_len\n
     '''
-    limit = len(genome) - length if linear else len(genome)
     reads = []
     for _ in range(n):
         length = randrange(min_len, max_len)
+        limit = len(genome) - length if linear else len(genome)
         start = randrange(0, limit)
         reads.append(get_k_mer(genome, length, start))
     return reads
