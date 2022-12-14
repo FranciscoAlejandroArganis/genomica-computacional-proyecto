@@ -1,0 +1,2438 @@
+Query: assembled synthetic genome k = 20 Query ID: lcl|Query_7711 Length: 18616
+
+
+>synthetic genome
+Sequence ID: Query_7713 Length: 26128
+Range 1: 1 to 18616
+
+Score:23979 bits(12985), Expect:0.0, 
+Identities:16754/18631(90%),  Gaps:30/18631(0%), Strand: Plus/Plus
+
+Query  1      GATATAAACACAAAATGAAGTACACAGATGAAGatataaacacaaaaacaaatatccata  60
+              ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  1      GATATAAACACAAAATGAAGTACACAGATGAAGATATAAACACAAAAACAAATATCCATA  60
+
+Query  61     tacaaatatcaacaccagacgaaatatacatataaatatataaacacatagagaaaaaca  120
+              |||||||||||||||||||||||||||||||||||||||||||||||||| ||||| | |
+Sbjct  61     TACAAATATCAACACCAGACGAAATATACATATAAATATATAAACACATAAAGAAATATA  120
+
+Query  121    catacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGa  180
+               ||| |||| ||  || | |||||||||| ||||||||| |||||| ||| |||| ||  
+Sbjct  121    GATATAAATGAACATATAAACACATAAAGGAATATACAAATAAAGAAATCCACACAAAAT  180
+
+Query  181    gaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagaca  240
+              |||| | ||||||||  |||||||||||||  |||| | ||| | |||||||| ||||||
+Sbjct  181    GAAATATACATATAATGATATAAACACATAACGAAATATACAAAGAAATAAAGATAGACA  240
+
+Query  241    cacataaagaaatatacaATTAA-AGATATCGACACGAAGagaaacagacatataaatat  299
+               | |||||||||| |||| | || ||||||| |||| ||  | || ||||||||||| ||
+Sbjct  241    TAGATAAAGAAATTTACA-TAAACAGATATCAACACAAAATGCAATAGACATATAAAGAT  299
+
+Query  300    ataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaA  359
+              ||||  ||  | || || ||| ||| ||||||   || | ||||||||||||||||||| 
+Sbjct  300    ATAATTACGGAAAGCAATACATATATAAATAACAATATAAACACATAAAGAAATATACAT  359
+
+Query  360    TTAAAGATATC-GA-CACGAAGagaaacagacatataaatatataaacacatagagaaaa  417
+               ||||| |||  || ||  ||  |||| | ||||| ||| ||||||||||||||||||| 
+Sbjct  360    ATAAAGGTATTAGATCA--AATTGAAATATACATACAAAGATATAAACACATAGAGAAAT  417
+
+Query  418    acacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGA  477
+              | ||||| |||||||| || | |||||||||||||||||||  ||| |||||| |||| |
+Sbjct  418    ATACATATAAATAAAGATATAGACACATAAAGAAATATACATATAACGATATCAACACAA  477
+
+Query  478    AGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctag  537
+              |  |||| |||||||||||  |||||||||||||||||  | | ||||||||||   || 
+Sbjct  478    AATGAAATAGACATATAAAGTTATAAACACATAGAGAACTATAAATACAAATAATAATAT  537
+
+Query  538    acacacataaagaaatatacaATTAAAGATATCGACACGAAGa-gaaacagacatataaa  596
+              | |||| ||||||||||||||   |||||| || ||| ||| | |||  |||| | ||||
+Sbjct  538    AAACACGTAAAGAAATATACATAGAAAGATTTCAACA-GAAAATGAATTAGACCTTTAAA  596
+
+Query  597    tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  656
+               ||| ||||||||||||||| |  ||||||||||||| ||   |||||||||||||||| 
+Sbjct  597    GATAAAAACACATAGAGAAATATGCATACAAATAAAGATATCAACACATAAAGAAATATC  656
+
+Query  657    caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  716
+               | |||| |||||| | || ||  |||| |||||||||||   ||||| ||| |||||||
+Sbjct  657    TATTTAAGGATATCAAAACAAAATGAAATAGACATATAAAGCGATAAAAACAAAGAGAAA  716
+
+Query  717    aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  776
+               | | ||| |||||| |||| | | ||||||| || ||||||  || |||| || |||| 
+Sbjct  717    TATAGATATAAATAACGCTATAAATACATAAATAAGTATACAGATAGAGATCTCAACACA  776
+
+Query  777    AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  836
+              || ||||||||||||| ||| ||||||||||||||||||| | ||||| |||||||||||
+Sbjct  777    AAAAGAAACAGACATAGAAACATATAAACACATAGAGAAATATACATAGAAATAAAGCTA  836
+
+Query  837    gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  896
+               | ||||||||||||||||||  | ||||||||| | || || | |||||||||||||||
+Sbjct  837    TAAACACATAAAGAAATATACGTTCAAAGATATCAAAACAAAAACAAACAGACATATAAA  896
+
+Query  897    tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  956
+               ||||||||||||||||||| | || |||||||||||||| |  | ||||||||||||||
+Sbjct  897    CATATAAACACATAGAGAAATATACCTACAAATAAAGCTATAATCTCATAAAGAAATATA  956
+
+Query  957    caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  1016
+              ||    | |||| | |||| || |||| ||| || ||||| |||||||||||||||||||
+Sbjct  957    CATAGGATGATACCAACACAAAAAGAACCAGGCAGATAAACATATAAACACATAGAGAAA  1016
+
+Query  1017   aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACAC-  1075
+               | |||||||| |||||||| | |||| ||||||||||||||  ||||||| || |||| 
+Sbjct  1017   TATACATACAATTAAAGCTATAAACACCTAAAGAAATATACATATAAAGATTTCAACACA  1076
+
+Query  1076   GAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagct  1135
+              |||   |||| |||||||||| |||||||||| ||  |||| | ||||||||| ||||||
+Sbjct  1077   GAATC-AAACTGACATATAAACATATAAACACGTAAGGAAATATACATACAAAAAAAGCT  1135
+
+Query  1136   agacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataa  1195
+              | | |||||||||| ||||| ||  ||||| |||| |||| || ||||||||| |||| |
+Sbjct  1136   ATAAACACATAAAGTAATATCCATATAAAGCTATCAACACAAAAAGAAACAGATATATTA  1195
+
+Query  1196   atatataaacacatagagaaaaacacatacaaataaagcta-gacacacataaagaaata  1254
+              | ||| ||||| ||||||||| | |||| ||| |||||| | || |||||||||||||||
+Sbjct  1196   ACATAAAAACAAATAGAGAAATATACATGCAATTAAAGCCATGA-ACACATAAAGAAATA  1254
+
+Query  1255   tacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagaga  1314
+              | ||  |||||||||| |||| || || |||||||||||||| ||||| | |||||| ||
+Sbjct  1255   TGCATATAAAGATATCAACACAAAAAGTAACAGACATATAAACATATAGATACATAGCGA  1314
+
+Query  1315   aaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACA  1374
+              || |  |||||||||||||||| | | | || |||| |||||||  | |||||||| |||
+Sbjct  1315   AATATTCATACAAATAAAGCTAAAAAGATATTAAGACATATACATATGAAGATATCAACA  1374
+
+Query  1375   CGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagc  1434
+              | || ||||||||||||||||| |||||||||||| |||||| |  || ||||||||| |
+Sbjct  1375   CAAAAAGAAACAGACATATAAACATATAAACACATTGAGAAATATCCAGACAAATAAATC  1434
+
+Query  1435   tagacacacataaagaaatataca-ATTAAAGATATCGACACGAAGagaaacagacatat  1493
+              || | |||||||||||| |||||| ||  | |||||| |||| |  | ||||| |||| |
+Sbjct  1435   TATAAACACATAAAGAAGTATACATATCTA-GATATCAACACAATAAAAAACACACATTT  1493
+
+Query  1494   aaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaat  1553
+              ||| |||||||| || ||||||  | ||| ||||||||||||| | ||||||||||||||
+Sbjct  1494   AAACATATAAACTCAAAGAGAATTATACACACAAATAAAGCTATAAACACATAAAGAAAT  1553
+
+Query  1554   atacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagag  1613
+              |||||  ||||||||   |||| || |||||| |||||||||| | ||||||||||||||
+Sbjct  1554   ATACATATAAAGATAGAAACACAAAAAGAAACCGACATATAAACAGATAAACACATAGAG  1613
+
+Query  1614   aaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGAC  1673
+               || | ||||||||||||||||  | |||| ||||||||||||||  |||||  ||| ||
+Sbjct  1614   CAATATACATACAAATAAAGCTCTAAACACCTAAAGAAATATACATATAAAGTGATCAAC  1673
+
+Query  1674   ACGAAGagaaacagacatataaa-tatataaacacatagagaaaaacacatacaaataaa  1732
+              ||  | ||||||||||||||||| || |||||||||||||| || | |||||||||||||
+Sbjct  1674   ACACAAAGAAACAGACATATAAACTA-ATAAACACATAGAGTAATATACATACAAATAAA  1732
+
+Query  1733   gctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacata  1792
+               ||| | |||||||||||||||||||  |||||| ||| |||| || | ||||||| |||
+Sbjct  1733   TCTATAAACACATAAAGAAATATACATATAAAGAGATCAACACTAAAACAAACAGAAATA  1792
+
+Query  1793   taaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaa  1852
+              |||  ||| ||||||||||||||| | ||||||||||||||||| | ||||| |||||||
+Sbjct  1793   TAACCATACAAACACATAGAGAAATATACATACAAATAAAGCTATAAACACACAAAGAAA  1852
+
+Query  1853   tatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacataga  1912
+              ||||||  |||||||||| |||| || ||||||||||||||||| |||||||||||||||
+Sbjct  1853   TATACATATAAAGATATCAACACAAAAAGAAACAGACATATAAACATATAAACACATAGA  1912
+
+Query  1913   gaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGA  1972
+              |||| | ||||||||||||||||| | |||||||| |||||||||   |||||||||| |
+Sbjct  1913   GAAATATACATACAAATAAAGCTATAAACACATAATGAAATATACGTATAAAGATATCAA  1972
+
+Query  1973   CACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaa  2032
+              ||| || ||||||||||||||||| |  |||||||||||||||| | |||||||| ||||
+Sbjct  1973   CACAAAAAGAAACAGACATATAAACACGTAAACACATAGAGAAATATACATACAAGTAAA  2032
+
+Query  2033   gctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacata  2092
+              |||||| |||||||||||||||||||  ||||||||||||||| || ||||| |||||||
+Sbjct  2033   GCTAGAGACACATAAAGAAATATACATGTAAAGATATCGACACAAAAAGAAAAAGACATA  2092
+
+Query  2093   taaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaa  2152
+              ||||  |||||||||||||||||| | ||||||| || |||| | | |||||||||||| 
+Sbjct  2093   TAAACTTATAAACACATAGAGAAATATACATACAGATCAAGCAATAGACACATAAAGAAG  2152
+
+Query  2153   tatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacataga  2212
+              ||||||   ||||||||| |||| |  ||||||||||||||||| |||||||||||||||
+Sbjct  2153   TATACATACAAAGATATCAACACAACTAGAAACAGACATATAAACATATAAACACATAGA  2212
+
+Query  2213   gaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGA  2272
+              |||| | |||| | |||||||||| | | |||||||||||||||||  |||||||||| |
+Sbjct  2213   GAAATATACATCCTAATAAAGCTATAGATACATAAAGAAATATACATATAAAGATATCAA  2272
+
+Query  2273   CACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaa  2332
+              ||| || |||||| |||||||||| ||||||||||| ||||||| | |||||||||||||
+Sbjct  2273   CACAAAAAGAAACCGACATATAAACATATAAACACAAAGAGAAATATACATACAAATAAA  2332
+
+Query  2333   gctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacata  2392
+              |||| | ||||||| |||||||||||   ||| ||||| ||||||| |||||||||||||
+Sbjct  2333   GCTATAGACACATAGAGAAATATACATACAAATATATCAACACGAAAAGAAACAGACATA  2392
+
+Query  2393   taaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaa  2452
+              |||| |||||||||||||||| || | ||||||||||||||| | | |||||||||||||
+Sbjct  2393   TAAACATATAAACACATAGAGTAAGATACATACAAATAAAGCCATAGACACATAAAGAAA  2452
+
+Query  2453   tatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacataga  2512
+              ||||||  |||||  ||| |||| || ||||||||||| ||||| |||||||||||||||
+Sbjct  2453   TATACATATAAAGTCATCAACACAAAAAGAAACAGACACATAAACATATAAACACATAGA  2512
+
+Query  2513   gaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGA  2572
+              |||| | ||||||||||||||||| |  ||||||||||| ||||||  |||||| ||| |
+Sbjct  2513   GAAATATACATACAAATAAAGCTATAGCCACATAAAGAAGTATACATATAAAGAAATCCA  2572
+
+Query  2573   CACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaa  2632
+              |||||| ||||||||||||||||  ||||||||||||||||||| | |||||||||||||
+Sbjct  2573   CACGAAAAGAAACAGACATATAATCATATAAACACATAGAGAAATATACATACAAATAAA  2632
+
+Query  2633   gctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacata  2692
+              |||| | |||| ||||| ||||||||  |||||||||| |||| || |||||| ||| ||
+Sbjct  2633   GCTATAGACACGTAAAGTAATATACATATAAAGATATCAACACAAAAAGAAACGGACCTA  2692
+
+Query  2693   taaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaa  2752
+              |||| ||||||||||||||||||| | ||||||||||||||||| | ||||| |||||||
+Sbjct  2693   TAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATAGACACAGAAAGAAA  2752
+
+Query  2753   tatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacataga  2812
+              ||||||  |||||||||| ||||||| ||||||||| | ||||| |||||||||||||||
+Sbjct  2753   TATACATATAAAGATATCAACACGAAAAGAAACAGAGACATAAACATATAAACACATAGA  2812
+
+Query  2813   gaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGA  2872
+              |||| | ||||||||||||||||| | ||  ||| | |||||||||  |||| ||||| |
+Sbjct  2813   GAAATATACATACAAATAAAGCTATAGACGTATATATAAATATACATATAAATATATCAA  2872
+
+Query  2873   CACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaa  2932
+              |||||| ||||||||||||||||| |||||||||||||||||||   ||| |||||||||
+Sbjct  2873   CACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATGTACAGACAAATAAA  2932
+
+Query  2933   gctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacata  2992
+              |||| | ||||||||| ||| |||||  |||||||||| ||||||| |||||||||||||
+Sbjct  2933   GCTATAGACACATAAAAAAACATACATGTAAAGATATCAACACGAAAAGAAACAGACATA  2992
+
+Query  2993   taaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaa  3052
+              || | ||||||||||||||||||| | ||||||||||||||| | | |||||||||||||
+Sbjct  2993   TAGACATATAAACACATAGAGAAATAGACATACAAATAAAGCGATAGACACATAAAGAAA  3052
+
+Query  3053   tatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacataga  3112
+              ||||||  |||||||||| |||| || ||||||||||||||||| ||||||||||| |||
+Sbjct  3053   TATACATATAAAGATATCTACACCAAAAGAAACAGACATATAAACATATAAACACAAAGA  3112
+
+Query  3113   gaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGA  3172
+              |||| ||||||||||||||||||| |  ||||||||||||||||||  |||||||||| |
+Sbjct  3113   GAAATACACATACAAATAAAGCTATAGCCACATAAAGAAATATACATATAAAGATATCAA  3172
+
+Query  3173   CACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaa  3232
+              |||||| |||||||||| |||||| ||||||||||||||||||| | ||||||||| |||
+Sbjct  3173   CACGAAAAGAAACAGACTTATAAACATATAAACACATAGAGAAATATACATACAAAGAAA  3232
+
+Query  3233   gctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacata  3292
+              |||| | |||||||||||||||||||  |||||||||| ||||||| |||||| ||||||
+Sbjct  3233   GCTATAGACACATAAAGAAATATACATATAAAGATATCAACACGAAAAGAAACGGACATA  3292
+
+Query  3293   taaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaa  3352
+              ||||  |||| ||||||||||||| | ||  ||||||| || || | |||||||||||||
+Sbjct  3293   TAAACCTATATACACATAGAGAAATATACGCACAAATACAGTTATAGACACATAAAGAAA  3352
+
+Query  3353   tatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacataga  3412
+              |||| |  ||||||| || ||||||| ||||| |||||||| || |||||||||||||||
+Sbjct  3353   TATAGATATAAAGATCTCAACACGAAAAGAAAGAGACATATTAACATATAAACACATAGA  3412
+
+Query  3413   gaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGA  3472
+              |||| | |||||||||||||||||   |||||||||||||||||||  |||||||||| |
+Sbjct  3413   GAAATATACATACAAATAAAGCTATCGACACATAAAGAAATATACATCTAAAGATATCAA  3472
+
+Query  3473   CACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaa  3532
+              |||||| ||||||||| |||| || ||||||||||||||||||| | |||||||||||||
+Sbjct  3473   CACGAACAGAAACAGAAATATTAACATATAAACACATAGAGAAATATACATACAAATAAA  3532
+
+Query  3533   gctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGag-aaacagacat  3591
+              |||| | |||||||||||||| ||||  |||||||||| |||||| ||  |||||| | |
+Sbjct  3533   GCTATAGACACATAAAGAAATGTACATATAAAGATATCCACACGA-GATCAAACAGTCGT  3591
+
+Query  3592   ataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaa  3651
+              ||||| ||||||||||||||||||| | |||||||||||||||||   ||||||||||  
+Sbjct  3592   ATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATTGACACATAAAGGG  3651
+
+Query  3652   atatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatag  3711
+              |||||||  |||||||||| ||||||| |||||||||| |||||| ||||||||||||| 
+Sbjct  3652   ATATACATATAAAGATATCAACACGAAAAGAAACAGACTTATAAACATATAAACACATAA  3711
+
+Query  3712   agaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCG  3771
+              ||||| | ||||||||||| ||||| | |||||||||||||||||||  |||||||||||
+Sbjct  3712   AGAAATATACATACAAATAGAGCTATAGACACATAAAGAAATATACATATAAAGATATCG  3771
+
+Query  3772   ACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataa  3831
+              |||| || || |||||||||||||| |||||||| |||||||||| | ||||| ||||||
+Sbjct  3772   ACACTAAAAGCAACAGACATATAAACATATAAACTCATAGAGAAATATACATAAAAATAA  3831
+
+Query  3832   agctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacat  3891
+              ||||| | |||||||||||||||||||  |||||||||||||||||| ||||||||||||
+Sbjct  3832   AGCTATAGACACATAAAGAAATATACATATAAAGATATCGACACGAAAAGAAACAGACAT  3891
+
+Query  3892   ataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaa  3951
+              ||||| |||||| |||||| ||||| | ||||||||||||||||| | | ||||||||||
+Sbjct  3892   ATAAACATATAACCACATAAAGAAATATACATACAAATAAAGCTATAGAAACATAAAGAA  3951
+
+Query  3952   atatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatag  4011
+              |||||||  |||||||||||||||||| ||||||||||||||||| ||||||||||||||
+Sbjct  3952   ATATACATATAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAG  4011
+
+Query  4012   agaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCG  4071
+              |||||   ||||||||||||||||| | ||||||||||||| ||||| ||||||||||||
+Sbjct  4012   AGAAATTTACATACAAATAAAGCTATAGACACATAAAGAAACATACATTTAAAGATATCG  4071
+
+Query  4072   ACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataa  4131
+              ||||||  ||||||||||| ||||| ||||||||| |||||||||    |||||||||| 
+Sbjct  4072   ACACGAGAAGAAACAGACAAATAAACATATAAACAGATAGAGAAATTTTCATACAAATAC  4131
+
+Query  4132   agctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacat  4191
+              ||||| | ||||||||||||||| |||  |||||||||||||||||| ||||||||||||
+Sbjct  4132   AGCTATAGACACATAAAGAAATACACATATAAAGATATCGACACGAAAAGAAACAGACAT  4191
+
+Query  4192   ataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaa  4251
+              || || ||||||||||||||||||| | |||||||| |||||||| | ||||||||||||
+Sbjct  4192   ATGAACATATAAACACATAGAGAAATATACATACAACTAAAGCTATAGACACATAAAGAA  4251
+
+Query  4252   atatacaATTAAA-GATATCGACACGAAGagaaacagacatataaatatataaacacata  4310
+              ||||||| |  || || |||| |||||| ||||||||||||||||| ||||||| |||||
+Sbjct  4252   ATATACA-TACAAGGAGATCGCCACGAAAAGAAACAGACATATAAACATATAAAAACATA  4310
+
+Query  4311   gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  4370
+              ||||     ||||||||||||||||| | |||||||||||||||||||  ||||||||||
+Sbjct  4311   GAGATTTTTACATACAAATAAAGCTATAGACACATAAAGAAATATACATGTAAAGATATC  4370
+
+Query  4371   GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  4430
+              |||||||| | ||| ||||||||||| ||||||||||||||||||| | |||||||||||
+Sbjct  4371   GACACGAAAATAAAAAGACATATAAACATATAAACACATAGAGAAATATACATACAAATA  4430
+
+Query  4431   aagctagacacacataaagaaatataca-ATTAAAGATATCGACACGAAGagaaacagac  4489
+              |||||| | ||||||||||||||||||| |||  ||||| ||| ||||| ||||||||||
+Sbjct  4431   AAGCTAAAGACACATAAAGAAATATACATATTT-AGATAGCGAAACGAAAAGAAACAGAC  4489
+
+Query  4490   atataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaag  4549
+              |||||||||||| |||||||||||||| | |||||||||||||||||   |||||| |||
+Sbjct  4490   ATATAAATATATCAACACATAGAGAAATATACATACAAATAAAGCTATTGACACATTAAG  4549
+
+Query  4550   aaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacat  4609
+              |||||||||  | |||||||||| ||||| ||||||||| ||| ||| ||||||||||||
+Sbjct  4550   AAATATACATATGAAGATATCGAAACGAAAAGAAACAGAGATAAAAACATATAAACACAT  4609
+
+Query  4610   agagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATAT  4669
+              ||||||| | |||| |||  ||||||| |  ||||||| ||| ||||||  ||||||| |
+Sbjct  4610   AGAGAAATATACATCCAATGAAAGCTATAGCCACATAAGGAAGTATACATATAAAGATCT  4669
+
+Query  4670   CGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaat  4729
+              ||||||||| ||||||||||||||||| ||||||||||||||||||| | ||||||||| 
+Sbjct  4670   CGACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACAAAC  4729
+
+Query  4730   aaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagac  4789
+              |||||||   |||||||||||||||||||   ||||||||||||||||| ||||||||||
+Sbjct  4730   AAAGCTATCGACACATAAAGAAATATACACACAAAGATATCGACACGAAAAGAAACAGAC  4789
+
+Query  4790   atataaatatataaacacatagagaaaaacacatacaaataaagcta--gacacacataa  4847
+              |||| || | ||||||| ||||||||| | |||||||||||||||||  ||||| | |||
+Sbjct  4790   ATATTAACACATAAACATATAGAGAAATATACATACAAATAAAGCTATTGACAC-C-TAA  4847
+
+Query  4848   agaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacac  4907
+              |||| ||||||  |||||||||||||||||| |||||||||||| | || ||||||||||
+Sbjct  4848   AGAACTATACATATAAAGATATCGACACGAAAAGAAACAGACATCTCAACATATAAACAC  4907
+
+Query  4908   atagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGAT  4967
+              ||||||||| | ||||||| ||||||||| | |||||||||||||||||||  ||||| |
+Sbjct  4908   ATAGAGAAATATACATACACATAAAGCTATAGACACATAAAGAAATATACATATAAAGCT  4967
+
+Query  4968   ATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaa  5027
+              |||||| |||| |||||||||| |||||| |||| ||||| |||||  | | ||||||||
+Sbjct  4968   ATCGACGCGAAAAGAAACAGACCTATAAACATATCAACACTTAGAGGTATATACATACAA  5027
+
+Query  5028   ataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacag  5087
+              ||||||||| | |||||||||||||||||||  |||||||||||||||||| ||||||||
+Sbjct  5028   ATAAAGCTACAGACACATAAAGAAATATACATATAAAGATATCGACACGAAAAGAAACAG  5087
+
+Query  5088   acatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataa  5147
+              ||||||||| ||||||||||||||||||| | ||||||||||||||||| | ||||||||
+Sbjct  5088   ACATATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATAGACACATAA  5147
+
+Query  5148   agaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacac  5207
+              |||||||||||  |||||||  ||||||||| ||| ||||||||||||| ||||||||||
+Sbjct  5148   AGAAATATACATATAAAGATTGCGACACGAAAAGACACAGACATATAAACATATAAACAC  5207
+
+Query  5208   atagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGAT  5267
+              ||||||||| | ||||||||||||||||| | ||||||||||||||||||   |||||||
+Sbjct  5208   ATAGAGAAATATACATACAAATAAAGCTATAGACACATAAAGAAATATACTTATAAAGAT  5267
+
+Query  5268   ATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaa  5327
+              ||||||||||| ||||||||||||||||| |||||| |||||||||||| | ||||||||
+Sbjct  5268   ATCGACACGAAAAGAAACAGACATATAAACATATAAGCACATAGAGAAATATACATACAA  5327
+
+Query  5328   ataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacag  5387
+              || |||||| ||| ||||||| | |||||||  |||||||||||||||||| ||||||||
+Sbjct  5328   ATTAAGCTATACATACATAAAAAGATATACATATAAAGATATCGACACGAAAAGAAACAG  5387
+
+Query  5388   acatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataa  5447
+              ||||||| | |||| ||||||||||||||   ||||||||||||||||| | ||||||||
+Sbjct  5388   ACATATACACATATCAACACATAGAGAAATTTACATACAAATAAAGCTATAGACACATAA  5447
+
+Query  5448   agaaatataca-ATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  5506
+               |||||||||| | | ||||||||| |||||| ||||||||||||| ||| |||||||||
+Sbjct  5448   CGAAATATACATAGT-AAGATATCGCCACGAAAAGAAACAGACATAGAAACATATAAACA  5506
+
+Query  5507   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  5566
+              |||||||||| | ||||||||||||| |||   |||||||||||||||||||  |||| |
+Sbjct  5507   CATAGAGAAATATACATACAAATAAAACTATTGACACATAAAGAAATATACATATAAATA  5566
+
+Query  5567   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  5626
+              ||||||||||||||||| |||||||||||| ||||||||||||||||||| | |||||||
+Sbjct  5567   TATCGACACGAAGAGAACCAGACATATAAACATATAAACACATAGAGAAATATACATACA  5626
+
+Query  5627   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  5686
+              |||||||||| | |||||||||||||||||||  ||||||||||||||||||  ||||||
+Sbjct  5627   AATAAAGCTATAAACACATAAAGAAATATACATATAAAGATATCGACACGAAAGGAAACA  5686
+
+Query  5687   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  5746
+              ||||| |||| |||||||||||| |||||| | ||||||||||||||| | | |||||||
+Sbjct  5687   GACATCTAAACATATAAACACATGGAGAAAGATACATACAAATAAAGCGATAGACACATA  5746
+
+Query  5747   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  5806
+              || |||||||||  ||||||||||||||| || ||||||||||||||||  |||||||||
+Sbjct  5747   AATAAATATACATATAAAGATATCGACACCAAAAGAAACAGACATATAACCATATAAACA  5806
+
+Query  5807   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  5866
+              |||||||||| | ||| ||||||||||||| | |||||||||||||||||||   |||||
+Sbjct  5807   CATAGAGAAATATACAAACAAATAAAGCTATAGACACATAAAGAAATATACATAGAAAGA  5866
+
+Query  5867   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  5926
+              || ||||||||| ||||||||||||||||| ||||||||||||||||||| | || ||||
+Sbjct  5867   TACCGACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACCTACA  5926
+
+Query  5927   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  5986
+              |||||||||| | |||||||||||||| ||||  |||||||||||||||||| |||||||
+Sbjct  5927   AATAAAGCTATAGACACATAAAGAAATCTACATATAAAGATATCGACACGAAAAGAAACA  5986
+
+Query  5987   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  6046
+              ||||||| || |||||||| |||||||||| | ||||||||||| ||||| | |||||||
+Sbjct  5987   GACATATTAACATATAAACGCATAGAGAAATATACATACAAATATAGCTATAGACACATA  6046
+
+Query  6047   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  6106
+              ||||||||||||  |||||||||||||||||| ||||||||||||| ||| |||||||||
+Sbjct  6047   AAGAAATATACATATAAAGATATCGACACGAAAAGAAACAGACATACAAACATATAAACA  6106
+
+Query  6107   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  6166
+              |||||||||| | ||||||||||||||||| | |||||||||||||||||||  ||||||
+Sbjct  6107   CATAGAGAAATATACATACAAATAAAGCTATAGACACATAAAGAAATATACATATAAAGA  6166
+
+Query  6167   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  6226
+              ||||||| |||| ||||||||||||||||| ||||||||||||||||||| | |||| ||
+Sbjct  6167   TATCGACGCGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATTCA  6226
+
+Query  6227   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  6286
+              |||||||||| | ||||||||||||| |||||  || ||||||||||||||| |||||||
+Sbjct  6227   AATAAAGCTATAGACACATAAAGAAAGATACATATAGAGATATCGACACGAAAAGAAACA  6286
+
+Query  6287   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  6346
+              |||||||||| ||||||||||||||||||| | |||| ||||||| |||| |||||||||
+Sbjct  6287   GACATATAAACATATAAACACATAGAGAAATATACATGCAAATAAGGCTATACACACATA  6346
+
+Query  6347   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  6406
+              ||||||||||||   ||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  6347   AAGAAATATACATAAAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACA  6406
+
+Query  6407   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  6466
+              |||||||||| | ||||||||||||||||| |||||| ||||||||||||||  ||||||
+Sbjct  6407   CATAGAGAAATATACATACAAATAAAGCTATACACACGTAAAGAAATATACATATAAAGA  6466
+
+Query  6467   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  6526
+              |||||||||||| | ||||||||||||||| | |||||||||| |||| | | |||||||
+Sbjct  6467   TATCGACACGAAAAAAAACAGACATATAAACAAATAAACACATGGAGACATATACATACA  6526
+
+Query  6527   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  6586
+              || ||||||| |||||||||||||||||||||  |||||||||||||||||| |||||||
+Sbjct  6527   AAGAAAGCTATACACACATAAAGAAATATACATATAAAGATATCGACACGAAAAGAAACA  6586
+
+Query  6587   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  6646
+              |||||||||| ||||||||||||||||||| | |||||| |||||| ||| |||||||||
+Sbjct  6587   GACATATAAACATATAAACACATAGAGAAATATACATACCAATAAACCTATACACACATA  6646
+
+Query  6647   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  6706
+              |||||||||||| ||||||||||| ||||||| ||||||||||||||||| |||||||||
+Sbjct  6647   AAGAAATATACATTTAAAGATATCTACACGAAAAGAAACAGACATATAAACATATAAACA  6706
+
+Query  6707   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  6766
+              |||||||||| | ||||||||| ||||||| ||||||||| ||||||||||| |||||||
+Sbjct  6707   CATAGAGAAATATACATACAAAGAAAGCTATACACACATATAGAAATATACATTTAAAGA  6766
+
+Query  6767   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  6826
+              |||||||||||| |||||||||||||||||  |||||||||||||||||| | |||||||
+Sbjct  6767   TATCGACACGAAAAGAAACAGACATATAAACCTATAAACACATAGAGAAATATACATACA  6826
+
+Query  6827   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  6886
+              |  ||||||| ||||||||||||||||||||| ||||||||||||||||||| |||||||
+Sbjct  6827   ATGAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACA  6886
+
+Query  6887   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  6946
+              |||||||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  6887   GACATATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATA  6946
+
+Query  6947   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  7006
+              |||||||||||| |||||||| |||||||||| ||||||||||||||||| |||||||| 
+Sbjct  6947   AAGAAATATACATTTAAAGATCTCGACACGAAAAGAAACAGACATATAAACATATAAACG  7006
+
+Query  7007   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  7066
+              | |||||||| | ||||||||||||||||| ||||| |||||||||| |||| |||||||
+Sbjct  7007   CCTAGAGAAATATACATACAAATAAAGCTATACACATATAAAGAAATGTACATTTAAAGA  7066
+
+Query  7067   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  7126
+              |||||||||||| ||||||||||||||||||||||||||||||||||||| | |||||| 
+Sbjct  7067   TATCGACACGAAAAGAAACAGACATATAAATATATAAACACATAGAGAAATATACATACG  7126
+
+Query  7127   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  7186
+              |||||||||| ||||||||||||||||||||| |||||||||| |||||||| || ||||
+Sbjct  7127   AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATGGACACGAAAAGTAACA  7186
+
+Query  7187   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  7246
+              |||||||||| |||||||||||| |||||| | ||||||||||||| ||| |||||||||
+Sbjct  7187   GACATATAAACATATAAACACATTGAGAAATATACATACAAATAAACCTATACACACATA  7246
+
+Query  7247   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  7306
+              |||||||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  7247   AAGAAATATACACTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACA  7306
+
+Query  7307   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  7366
+              || ||||||| | |||||| ||||||||||  ||| ||||||||||||| || |||||||
+Sbjct  7307   CAAAGAGAAATATACATACCAATAAAGCTATGCACGCATAAAGAAATATGCATTTAAAGA  7366
+
+Query  7367   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  7426
+              |||||||||||| ||||||||||||||| | ||||||||||  |||||||   |||||||
+Sbjct  7367   TATCGACACGAAAAGAAACAGACATATATACATATAAACACCAAGAGAAATGTACATACA  7426
+
+Query  7427   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  7486
+              |||||| ||| |||||||||||||||||| || ||||||||||||||| ||| |||||||
+Sbjct  7427   AATAAACCTATACACACATAAAGAAATATGCATTTAAAGATATCGACATGAAAAGAAACA  7486
+
+Query  7487   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  7546
+              |||||||||| ||||||| ||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  7487   GACATATAAACATATAAAAACATAGAGAAATATACATACAAATAAAGCTATACACACATA  7546
+
+Query  7547   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  7606
+              |||||||||||| |||||||||||||| |||| ||||||||||||||| | |||||||||
+Sbjct  7547   AAGAAATATACATTTAAAGATATCGACCCGAAAAGAAACAGACATATAGACATATAAACA  7606
+
+Query  7607   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  7666
+              |||||||||| | |||| |||||||||||| ||||||||||||||||| ||| |||||||
+Sbjct  7607   CATAGAGAAATATACATGCAAATAAAGCTATACACACATAAAGAAATAGACATTTAAAGA  7666
+
+Query  7667   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  7726
+              ||||||| |||| ||||||||||||| ||| ||||||||||||||||||| | |||||||
+Sbjct  7667   TATCGACCCGAAAAGAAACAGACATAAAAACATATAAACACATAGAGAAATATACATACA  7726
+
+Query  7727   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  7786
+              |||||||||| ||||||||||||||||||||| ||||||||||||||||||| |||||||
+Sbjct  7727   AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACA  7786
+
+Query  7787   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  7846
+              ||||||| || |||||||||||| |||||| | ||||||||||||||||| |||||||||
+Sbjct  7787   GACATATTAACATATAAACACATTGAGAAATATACATACAAATAAAGCTATACACACATA  7846
+
+Query  7847   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  7906
+              |||||||||||| ||||||||||||||||||| ||||||||||| ||||| || ||||||
+Sbjct  7847   AAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACACATAAACATGTAAACA  7906
+
+Query  7907   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  7966
+              |||||||| | | ||||||||||||||||| ||||||||||||||||||||| ||||| |
+Sbjct  7907   CATAGAGAGATATACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAACA  7966
+
+Query  7967   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  8026
+              |||||||| ||| ||||||||| ||||||| ||| ||||||||||||||| | |||||||
+Sbjct  7967   TATCGACAGGAAAAGAAACAGATATATAAACATAGAAACACATAGAGAAATATACATACA  8026
+
+Query  8027   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  8086
+              |||||||||| ||||||||||||||||||||| ||||||||||||||||||| |||||||
+Sbjct  8027   AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACA  8086
+
+Query  8087   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  8146
+              |||||||||| ||||||||||||| ||||| | ||||||||||||||||| |||||||||
+Sbjct  8087   GACATATAAACATATAAACACATACAGAAATATACATACAAATAAAGCTATACACACATA  8146
+
+Query  8147   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  8206
+              |||||||||||| ||||||||||||||||||| ||||||||||||||||| |||||| ||
+Sbjct  8147   AAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAATCA  8206
+
+Query  8207   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  8266
+              |||||||||||| |||||||||||||| || || |||||||||||||||||| |||||||
+Sbjct  8207   CATAGAGAAAAATACATACAAATAAAGATATACTCACATAAAGAAATATACATTTAAAGA  8266
+
+Query  8267   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  8326
+              ||||||| | || |||||||||||||||||  |||| ||||||||||||| |  ||||||
+Sbjct  8267   TATCGACCCAAAAAGAAACAGACATATAAACCTATATACACATAGAGAAATATCCATACA  8326
+
+Query  8327   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  8386
+               ||||||||| || |||||||||||||||||| |||| |||||||||||||| |||||||
+Sbjct  8327   TATAAAGCTATACCCACATAAAGAAATATACATTTAATGATATCGACACGAAAAGAAACA  8386
+
+Query  8387   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  8446
+              |||||||||| |||||||||||||||||||   ||||||||||||||||| |||||||||
+Sbjct  8387   GACATATAAACATATAAACACATAGAGAAATGTACATACAAATAAAGCTATACACACATA  8446
+
+Query  8447   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  8506
+              |||||||||||| ||||||||||||||||||| |||| |||||||||||| |||||| ||
+Sbjct  8447   AAGAAATATACATTTAAAGATATCGACACGAAAAGAACCAGACATATAAACATATAAGCA  8506
+
+Query  8507   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  8566
+              |||||||||| | ||||||||||||||||| | ||||||||| ||||||||| |||||| 
+Sbjct  8507   CATAGAGAAATATACATACAAATAAAGCTATATACACATAAACAAATATACATTTAAAGG  8566
+
+Query  8567   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  8626
+              |||||||||||| ||||||||||||||||| ||||||||||||||||||| | |||||||
+Sbjct  8567   TATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACA  8626
+
+Query  8627   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  8686
+              |||||||||| |||||||||||||| |||||| |||||| ||| |||||||| |||||||
+Sbjct  8627   AATAAAGCTATACACACATAAAGAACTATACATTTAAAGTTATAGACACGAAAAGAAACA  8686
+
+Query  8687   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  8746
+              |||||||||| ||||||||| ||||||||| | ||||||||||||||||| |||||||||
+Sbjct  8687   GACATATAAACATATAAACATATAGAGAAATATACATACAAATAAAGCTATACACACATA  8746
+
+Query  8747   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  8806
+              || ||||||||| ||||||||| ||||||||| |||||||||||| |||| ||||| |||
+Sbjct  8747   AATAAATATACATTTAAAGATACCGACACGAAAAGAAACAGACATTTAAACATATATACA  8806
+
+Query  8807   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  8866
+              |||||||||| | ||||||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  8807   CATAGAGAAATATACATACAAATAAAGCTATACACACATAAAGAAATATACAATTAAAGA  8866
+
+Query  8867   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  8926
+              |||||||||||| ||||||||||||||||| |||||| |||||||||||| | |||||||
+Sbjct  8867   TATCGACACGAAAAGAAACAGACATATAAACATATAACCACATAGAGAAATATACATACA  8926
+
+Query  8927   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  8986
+              |||||||||| ||||||||||||||||||||| ||||||||||||||||||| |||||||
+Sbjct  8927   AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACA  8986
+
+Query  8987   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  9046
+              |||| || || ||||||||||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  8987   GACAGATTAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATA  9046
+
+Query  9047   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  9106
+              |||||||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  9047   AAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACA  9106
+
+Query  9107   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  9166
+              | |||||||| | || ||||||||||||   ||||||||||||||||||||| |||||||
+Sbjct  9107   CTTAGAGAAATATACCTACAAATAAAGCGGTACACACATAAAGAAATATACATTTAAAGA  9166
+
+Query  9167   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  9226
+              |||||||||||| ||||||||||||||||| ||||||||||||||||||| | |||||||
+Sbjct  9167   TATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACA  9226
+
+Query  9227   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  9286
+              |||||||||| |||||||||| ||||| |||| ||||| ||||||||||||| |||||||
+Sbjct  9227   AATAAAGCTATACACACATAACGAAATCTACAGTTAAACATATCGACACGAAAAGAAACA  9286
+
+Query  9287   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  9346
+              |||||||||| ||||||||| ||||||||| | |||||||||||||||||  ||||||||
+Sbjct  9287   GACATATAAACATATAAACATATAGAGAAATATACATACAAATAAAGCTATGCACACATA  9346
+
+Query  9347   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  9406
+              |||||||||||| ||||||||||||||||||| ||||||||||||||||| | |||||||
+Sbjct  9347   AAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACACATAAACA  9406
+
+Query  9407   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  9466
+              |||||||||| | ||||||||||||||||| |||| ||||||| |||||||| |||| ||
+Sbjct  9407   CATAGAGAAATATACATACAAATAAAGCTATACACCCATAAAGCAATATACATTTAACGA  9466
+
+Query  9467   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  9526
+              |||||||||||  ||||||||||||||||| ||||||||||||||||||| | |||||||
+Sbjct  9467   TATCGACACGAGAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACA  9526
+
+Query  9527   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  9586
+              |||||||||| ||||||||||||||||||||| ||||||||||||||||||| |||||||
+Sbjct  9527   AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACA  9586
+
+Query  9587   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  9646
+              |||||||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  9587   GACATATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATA  9646
+
+Query  9647   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  9706
+              |||| ||||||| |||||||||||||||||||  |||||||||||||||| | |||||||
+Sbjct  9647   AAGAGATATACATTTAAAGATATCGACACGAAATGAAACAGACATATAAACAGATAAACA  9706
+
+Query  9707   catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  9766
+              |||||||||| | || |||||||||||||| |||||||||||||||||||||||||||||
+Sbjct  9707   CATAGAGAAATATACCTACAAATAAAGCTATACACACATAAAGAAATATACAATTAAAGA  9766
+
+Query  9767   TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  9826
+              |||||||||||| ||||||||||||||||| ||||||||||||| ||||| | |||||||
+Sbjct  9767   TATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAAAGAAATATACATACA  9826
+
+Query  9827   aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  9886
+              |||||||||| ||||||||||||||||||||| ||||||||||||||||||| |||||||
+Sbjct  9827   AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACA  9886
+
+Query  9887   gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  9946
+              |||||||||| ||||||||||||||||||| | ||||||||||||||||  |||||||||
+Sbjct  9887   GACATATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTCTACACACATA  9946
+
+Query  9947   aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  10006
+              |||||||||||| ||||||||||||| ||||||||||||||||||||||| |||||||||
+Sbjct  9947   AAGAAATATACATTTAAAGATATCGAGACGAAGAGAAACAGACATATAAACATATAAACA  10006
+
+Query  10007  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  10066
+              |||||||||| | ||| ||||||||||||| |||||||| |||||||||||| |||||||
+Sbjct  10007  CATAGAGAAATAGACAAACAAATAAAGCTATACACACATCAAGAAATATACATTTAAAGA  10066
+
+Query  10067  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  10126
+              |||||||||||| ||||||||||||||| | |||||||| | || ||||| | |||||||
+Sbjct  10067  TATCGACACGAAAAGAAACAGACATATAGACATATAAACCCTTAAAGAAATAGACATACA  10126
+
+Query  10127  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  10186
+              ||||||||||  |||||||| ||||||||||| ||||| ||||||||||||| |||| ||
+Sbjct  10127  AATAAAGCTATTCACACATAGAGAAATATACATTTAAAAATATCGACACGAAAAGAATCA  10186
+
+Query  10187  gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  10246
+               ||||||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  10187  TACATATAAACATATAAACACATAGAGAAATAGACATACAAATAAAGCTATACACACATA  10246
+
+Query  10247  aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  10306
+              |||||||||||| |||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10247  AAGAAATATACATTTAAAGATATCGACACGAAGAGAAACAGACATATAAATATATAAACA  10306
+
+Query  10307  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  10366
+              |||||||||| | ||||||||||||||||| ||||||||||||||||||||| || ||||
+Sbjct  10307  CATAGAGAAATAGACATACAAATAAAGCTATACACACATAAAGAAATATACATTTCAAGA  10366
+
+Query  10367  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  10426
+              |||||| ||||| ||||||||||||||||| || ||| |||||||||||| | |||||||
+Sbjct  10367  TATCGATACGAAAAGAAACAGACATATAAACATTTAACCACATAGAGAAATAGACATACA  10426
+
+Query  10427  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  10486
+              ||| |||||  ||| ||||||||||||||||| ||||||||| ||||||||| |||||| 
+Sbjct  10427  AATCAAGCTTTACAAACATAAAGAAATATACATTTAAAGATAACGACACGAAAAGAAACT  10486
+
+Query  10487  gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  10546
+              |||||||| | ||||||||||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  10487  GACATATAGACATATAAACACATAGAGAAATAGACATACAAATAAAGCTATACACACATA  10546
+
+Query  10547  aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  10606
+              ||| |||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  10547  AAGGAATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACA  10606
+
+Query  10607  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  10666
+              |||||||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||
+Sbjct  10607  CATAGAGAAATAGACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGA  10666
+
+Query  10667  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  10726
+              |||||||||||| ||||||||||||||||| ||||||||||||||||||| | |||||||
+Sbjct  10667  TATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATAGACATACA  10726
+
+Query  10727  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  10786
+              |||||||||| ||||||||||||||||||||| ||||||||| ||||||||  |||||||
+Sbjct  10727  AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATAGCGACACGAGAAGAAACA  10786
+
+Query  10787  gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  10846
+              |||||||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  10787  GACATATAAACATATAAACACATAGAGAAATAGACATACAAATAAAGCTATACACACATA  10846
+
+Query  10847  aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  10906
+              |||||||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  10847  AAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACA  10906
+
+Query  10907  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  10966
+              |||||||||| | ||||||||||||||||| ||||| ||||||||||||||| |||||||
+Sbjct  10907  CATAGAGAAATAGACATACAAATAAAGCTATACACAGATAAAGAAATATACATTTAAAGA  10966
+
+Query  10967  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  11026
+              |||||||||||| ||| |||| |||||||| ||||||||||||||||||| | |||||||
+Sbjct  10967  TATCGACACGAAAAGAGACAGCCATATAAACATATAAACACATAGAGAAATAGACATACA  11026
+
+Query  11027  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  11086
+              |||||||||| |||| |||||||||||||||| ||||||||||||||||||| |||||| 
+Sbjct  11027  AATAAAGCTATACACCCATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACT  11086
+
+Query  11087  gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  11146
+              |||||||||| ||||||||||||||||||| | ||||||||||||||| | |||||||||
+Sbjct  11087  GACATATAAACATATAAACACATAGAGAAATAGACATACAAATAAAGCAATACACACATA  11146
+
+Query  11147  aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  11206
+              |||||||||||| || |||||||||||||||| ||||||||||||||||| |||||||||
+Sbjct  11147  AAGAAATATACATTTTAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACA  11206
+
+Query  11207  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  11266
+              ||||||| || | ||||||||||||||| | ||||||||||||||||| ||| |||||||
+Sbjct  11207  CATAGAGGAATAGACATACAAATAAAGCCATACACACATAAAGAAATACACATTTAAAGA  11266
+
+Query  11267  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  11326
+              |||||||||||| ||||||||||||||||| ||||||||||||||||||| | |||||||
+Sbjct  11267  TATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATAGACATACA  11326
+
+Query  11327  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  11386
+              |||||||||| |||| |||||||||| ||||| ||||||||||||||| ||| |||||||
+Sbjct  11327  AATAAAGCTATACACGCATAAAGAAAAATACATTTAAAGATATCGACATGAAAAGAAACA  11386
+
+Query  11387  gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  11446
+              |||||||||| ||||||||||| || |||| | ||||||| ||||||||| |||||||||
+Sbjct  11387  GACATATAAACATATAAACACAGAGCGAAATAGACATACACATAAAGCTATACACACATA  11446
+
+Query  11447  aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  11506
+              |||||| ||||| ||| ||||||||||||||| |||||||||||||||||  | ||||||
+Sbjct  11447  AAGAAACATACATTTAGAGATATCGACACGAATAGAAACAGACATATAAACTTTTAAACA  11506
+
+Query  11507  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  11566
+              ||||| |||| | ||||||||||||||||| |||| |||||||||||||||| |||||||
+Sbjct  11507  CATAGGGAAATAGACATACAAATAAAGCTATACACCCATAAAGAAATATACATTTAAAGA  11566
+
+Query  11567  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  11626
+              |||||||||||| | ||||||||||||||| |||| |||||||||||||| | |||||||
+Sbjct  11567  TATCGACACGAAAAAAAACAGACATATAAACATATGAACACATAGAGAAATAGACATACA  11626
+
+Query  11627  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  11686
+              |||||||||| ||||||||||||||||||||| ||||||||||||||||||| | |||||
+Sbjct  11627  AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACA  11686
+
+Query  11687  gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  11746
+              |||||||||| || |||||||||||||||| | ||||||||||| ||||| ||||||| |
+Sbjct  11687  GACATATAAACATTTAAACACATAGAGAAATAGACATACAAATAGAGCTATACACACAAA  11746
+
+Query  11747  aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  11806
+              |||||||||||| ||||||||| ||||||||| | ||||||||||||||| |||||||||
+Sbjct  11747  AAGAAATATACATTTAAAGATACCGACACGAAAAAAAACAGACATATAAACATATAAACA  11806
+
+Query  11807  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  11866
+              |||||||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||
+Sbjct  11807  CATAGAGAAAGAGACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGA  11866
+
+Query  11867  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  11926
+              |||||||||||| | ||||| ||||||||| ||||||||||||||||||| | |||| ||
+Sbjct  11867  TATCGACACGAATAAAAACACACATATAAACATATAAACACATAGAGAAATAGACATGCA  11926
+
+Query  11927  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaaca  11986
+              |||||||||| ||||||||||||||||||||| ||||||||||||||||||| | |||||
+Sbjct  11927  AATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACA  11986
+
+Query  11987  gacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacata  12046
+              |||||||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||
+Sbjct  11987  GACATATAAACATATAAACACATAGAGAAATAGACATACAAATAAAGCTATACACACATA  12046
+
+Query  12047  aagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaaca  12106
+              |||||||||||| ||||||||||||||||||| | ||||||||||||||| |||||||||
+Sbjct  12047  AAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAACA  12106
+
+Query  12107  catagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGA  12166
+              |||||||||| | ||||||||||||||||| |||||||||||| |||||||| |||||||
+Sbjct  12107  CATAGAGAAATAGACATACAAATAAAGCTATACACACATAAAGTAATATACATTTAAAGA  12166
+
+Query  12167  TATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacataca  12226
+              |||||||||||| | ||||||||||||||| ||||||||||||||||||| | |||||||
+Sbjct  12167  TATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATAGACATACA  12226
+
+Query  12227  aataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGa-gaaac  12285
+              ||||||||||  ||| |||||||||||||||| |||||||||| |||||||| | |||| 
+Sbjct  12227  AATAAAGCTATGCACGCATAAAGAAATATACATTTAAAGATATAGACACGAAAAAGAAA-  12285
+
+Query  12286  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  12345
+              ||||||||||| ||||||||||||||||||| | || |||||||||||||| ||||||||
+Sbjct  12286  AGACATATAAACATATAAACACATAGAGAAATAGACTTACAAATAAAGCTATACACACAT  12345
+
+Query  12346  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  12405
+              ||||| ||||||  ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  12346  AAAGAGATATACCTTTAAAGATATCGACACGAAAATAAACAGACATATAAACATATAAAC  12405
+
+Query  12406  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  12465
+               ||||  |||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  12406  TCATATGGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  12465
+
+Query  12466  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  12525
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| |||||| |
+Sbjct  12466  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATCC  12525
+
+Query  12526  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  12585
+              ||||||||||| ||||||||||||||||| ||| ||||||||||||||||||| | ||||
+Sbjct  12526  AAATAAAGCTATACACACATAAAGAAATAAACATTTAAAGATATCGACACGAAAAAAAAC  12585
+
+Query  12586  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  12645
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  12586  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  12645
+
+Query  12646  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  12705
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  12646  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  12705
+
+Query  12706  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  12765
+              ||||||||||| |||| |||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  12706  ACATAGAGAAATACACTTACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  12765
+
+Query  12766  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  12825
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  12766  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  12825
+
+Query  12826  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  12885
+              ||||||||||| |||| |||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  12826  AAATAAAGCTATACACGCATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  12885
+
+Query  12886  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  12945
+              ||||||||||| |||||| |||||||| ||| ||||||||||||||||||| ||||||||
+Sbjct  12886  AGACATATAAACATATAAGCACATAGAAAAATACACATACAAATAAAGCTATACACACAT  12945
+
+Query  12946  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  13005
+              ||||||||||||| ||||||||||||||||||| | || |||||||||||| ||||||||
+Sbjct  12946  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAACCAGACATATAAACATATAAAC  13005
+
+Query  13006  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  13065
+              ||||||| ||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  13006  ACATAGATAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  13065
+
+Query  13066  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  13125
+              ||||||||||||| | ||||||||| ||||| ||||||||||||||||||| ||||||||
+Sbjct  13066  ATATCGACACGAAAAAAAACAGACAAATAAACATATAAACACATAGAGAAATACACATAC  13125
+
+Query  13126  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  13185
+              ||||||||||| |||||||||||||  |||||| ||||||||||||||||||  | ||||
+Sbjct  13126  AAATAAAGCTATACACACATAAAGAGTTATACATTTAAAGATATCGACACGACAAAAAAC  13185
+
+Query  13186  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  13245
+              ||||||||||| |||| |||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  13186  AGACATATAAACATATTAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  13245
+
+Query  13246  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  13305
+               |||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  13246  GAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAAAATATAAAC  13305
+
+Query  13306  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  13365
+              ||||||||||| ||||||||||||| ||||| ||||||||||||||||||||| ||||||
+Sbjct  13306  ACATAGAGAAATACACATACAAATATAGCTATACACACATAAAGAAATATACATTTAAAG  13365
+
+Query  13366  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  13425
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  13366  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  13425
+
+Query  13426  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  13485
+              ||||||||||| ||||||||||||||||||||| |||||||||||||||| || | ||||
+Sbjct  13426  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACCAAAAAAAAC  13485
+
+Query  13486  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  13545
+              ||||||||||| ||||||||||| | ||||| |||||||||| |||||||| ||||||||
+Sbjct  13486  AGACATATAAACATATAAACACAGATAGAAATACACATACAATTAAAGCTATACACACAT  13545
+
+Query  13546  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  13605
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  13546  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  13605
+
+Query  13606  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  13665
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  13606  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  13665
+
+Query  13666  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  13725
+              ||||||||||||| | |||||||| |||||| |||||||| |||||||||| ||||||||
+Sbjct  13666  ATATCGACACGAAAAAAAACAGACCTATAAACATATAAACGCATAGAGAAATACACATAC  13725
+
+Query  13726  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  13785
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  13726  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  13785
+
+Query  13786  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  13845
+              |||| |||||| ||||||||||||||| ||| ||||||||||||||||||| ||| ||||
+Sbjct  13786  AGACTTATAAACATATAAACACATAGACAAATACACATACAAATAAAGCTATACAAACAT  13845
+
+Query  13846  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  13905
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  13846  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  13905
+
+Query  13906  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  13965
+              ||||||||||| ||||||||||||||||||| ||||||||||| ||||||||  ||||||
+Sbjct  13906  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAATAAATATACGTTTAAAG  13965
+
+Query  13966  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  14025
+               |||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  13966  CTATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  14025
+
+Query  14026  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  14085
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  14026  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  14085
+
+Query  14086  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  14145
+              |||||||||||  |||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  14086  AGACATATAAACTTATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  14145
+
+Query  14146  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  14205
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  14146  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  14205
+
+Query  14206  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  14265
+              ||||||||||| ||||||||||||||||||| ||||| ||||| ||||| ||| ||||||
+Sbjct  14206  ACATAGAGAAATACACATACAAATAAAGCTATACACAAATAAACAAATAGACATTTAAAG  14265
+
+Query  14266  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  14325
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  14266  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  14325
+
+Query  14326  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  14385
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  14326  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  14385
+
+Query  14386  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  14445
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  14386  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  14445
+
+Query  14446  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  14505
+              ||||||||||||| |||||||||| || | ||| | ||||||||||||||  ||||||||
+Sbjct  14446  AAAGAAATATACATTTAAAGATATAGAAAGGAAAAAAAACAGACATATAACCATATAAAC  14505
+
+Query  14506  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  14565
+              ||||||||| | |||||| |||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  14506  ACATAGAGACATACACATTCAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  14565
+
+Query  14566  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  14625
+              ||||||||||||| | |||||| |||||||| ||||||||||||||||||| ||||||||
+Sbjct  14566  ATATCGACACGAAAAAAAACAGGCATATAAACATATAAACACATAGAGAAATACACATAC  14625
+
+Query  14626  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  14685
+              ||||||||||| |||||||||| |||||||||| ||| ||||||||||||||| | ||||
+Sbjct  14626  AAATAAAGCTATACACACATAACGAAATATACATTTAGAGATATCGACACGAAAAAAAAC  14685
+
+Query  14686  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  14745
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  14686  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  14745
+
+Query  14746  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  14805
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  14746  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  14805
+
+Query  14806  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  14865
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  14806  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  14865
+
+Query  14866  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  14925
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  14866  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  14925
+
+Query  14926  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  14985
+              ||||||||||  ||| ||||||||||||||||| |||||||| |||||||||| | ||||
+Sbjct  14926  AAATAAAGCTGTACATACATAAAGAAATATACATTTAAAGATGTCGACACGAAAAAAAAC  14985
+
+Query  14986  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  15045
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  14986  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  15045
+
+Query  15046  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  15105
+              ||||||||||||| ||||||||||||||||||  | ||||||||| ||||| ||||||||
+Sbjct  15046  AAAGAAATATACATTTAAAGATATCGACACGACAAAAAACAGACAAATAAACATATAAAC  15105
+
+Query  15106  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  15165
+              ||||||||| | ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  15106  ACATAGAGATATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  15165
+
+Query  15166  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  15225
+              ||||||||||||| | ||||||||||||||| ||||||||||| ||||||| ||||||||
+Sbjct  15166  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACAGAGAGAAATACACATAC  15225
+
+Query  15226  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  15285
+              |||||| |||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  15226  AAATAATGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  15285
+
+Query  15286  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  15345
+              ||||||||||| ||||||||||||||||||| |||| |||||||||||||| ||||||||
+Sbjct  15286  AGACATATAAACATATAAACACATAGAGAAATACACCTACAAATAAAGCTATACACACAT  15345
+
+Query  15346  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  15405
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  15346  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  15405
+
+Query  15406  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  15465
+              ||||| ||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  15406  ACATACAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  15465
+
+Query  15466  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  15525
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  15466  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  15525
+
+Query  15526  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  15585
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  15526  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  15585
+
+Query  15586  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  15645
+              ||||||||| | ||||||||||||||||||| |||| |||||||||||||| ||||||||
+Sbjct  15586  AGACATATACACATATAAACACATAGAGAAATACACGTACAAATAAAGCTATACACACAT  15645
+
+Query  15646  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  15705
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  15646  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  15705
+
+Query  15706  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  15765
+              ||||||||||| ||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  15706  ACATAGAGAAATACACATACAAATAAAGCTAGACACACATAAAGAAATATACATTTAAAG  15765
+
+Query  15766  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  15825
+              ||| ||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  15766  ATACCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  15825
+
+Query  15826  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  15885
+              ||||||||||| ||||||||||||| ||||||| ||||||||||||||||||| | ||||
+Sbjct  15826  AAATAAAGCTATACACACATAAAGATATATACATTTAAAGATATCGACACGAAAAAAAAC  15885
+
+Query  15886  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  15945
+              |||| |||||| ||||||||| ||||||||| ||||||||||||||||||| ||||||||
+Sbjct  15886  AGACGTATAAACATATAAACATATAGAGAAATACACATACAAATAAAGCTATACACACAT  15945
+
+Query  15946  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  16005
+              |||||| |||||| |||||| |||||||||||| | ||||||||||||||| ||||||||
+Sbjct  15946  AAAGAATTATACATTTAAAGCTATCGACACGAAAAAAAACAGACATATAAACATATAAAC  16005
+
+Query  16006  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  16065
+              |||||||||||  |||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  16006  ACATAGAGAAATTCACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  16065
+
+Query  16066  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  16125
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  16066  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  16125
+
+Query  16126  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  16185
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  16126  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  16185
+
+Query  16186  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  16245
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||| 
+Sbjct  16186  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAC  16245
+
+Query  16246  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  16305
+              ||||||||||||  ||| ||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  16246  AAAGAAATATACCTTTACAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  16305
+
+Query  16306  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  16365
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  16306  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  16365
+
+Query  16366  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  16425
+              | ||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  16366  AAATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  16425
+
+Query  16426  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  16485
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| |  |||
+Sbjct  16426  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAGAAC  16485
+
+Query  16486  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  16545
+              ||||||||||| ||||||||||||||||||| |||| |||||||||||||| ||||||||
+Sbjct  16486  AGACATATAAACATATAAACACATAGAGAAATACACCTACAAATAAAGCTATACACACAT  16545
+
+Query  16546  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  16605
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  16546  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  16605
+
+Query  16606  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  16665
+              ||||||||||| ||||||||||||||||||||||||||||||||||||||||| ||||||
+Sbjct  16606  ACATAGAGAAATACACATACAAATAAAGCTAGACACACATAAAGAAATATACATTTAAAG  16665
+
+Query  16666  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  16725
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  16666  ATATCGACACGAAAAAAAACAGACATATAAAGATATAAACACATAGAGAAATACACATAC  16725
+
+Query  16726  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  16785
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  16726  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  16785
+
+Query  16786  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  16845
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  16786  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  16845
+
+Query  16846  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  16905
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  16846  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  16905
+
+Query  16906  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  16965
+              ||||||||||| ||||||||| ||||||||| ||||||||||||||||||||| ||||||
+Sbjct  16906  ACATAGAGAAATACACATACAGATAAAGCTATACACACATAAAGAAATATACATTTAAAG  16965
+
+Query  16966  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  17025
+              ||||||||||| | | ||||||||||||| | ||||||||||||||||||| ||||||||
+Sbjct  16966  ATATCGACACGGAAAAAAACAGACATATACACATATAAACACATAGAGAAATACACATAC  17025
+
+Query  17026  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  17085
+               |||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  17026  GAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  17085
+
+Query  17086  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  17145
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  17086  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  17145
+
+Query  17146  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  17205
+              ||||||||||||| |||||||||||||||||||   ||||||||||||||| ||||||||
+Sbjct  17146  AAAGAAATATACATTTAAAGATATCGACACGAAACAAAACAGACATATAAACATATAAAC  17205
+
+Query  17206  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  17265
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  17206  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  17265
+
+Query  17266  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  17325
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  17266  ATATCGACACGAAAACAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  17325
+
+Query  17326  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  17385
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||| 
+Sbjct  17326  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAG  17385
+
+Query  17386  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  17445
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  17386  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  17445
+
+Query  17446  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  17505
+              ||||||||||||| ||| ||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  17446  AAAGAAATATACATTTATAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  17505
+
+Query  17506  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  17565
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  17506  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  17565
+
+Query  17566  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  17625
+              ||||||||||||| | |||||||| |||||| ||||||||||||||||||| ||||||||
+Sbjct  17566  ATATCGACACGAAAAAAAACAGACTTATAAACATATAAACACATAGAGAAATACACATAC  17625
+
+Query  17626  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  17685
+              ||||||||||| ||||||||||||||||||||| ||||||||| ||||||||| | ||||
+Sbjct  17626  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATACCGACACGAAAAAAAAC  17685
+
+Query  17686  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  17745
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  17686  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  17745
+
+Query  17746  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  17805
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  17746  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  17805
+
+Query  17806  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  17865
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  17806  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  17865
+
+Query  17866  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  17925
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  17866  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  17925
+
+Query  17926  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  17985
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  17926  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  17985
+
+Query  17986  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  18045
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  17986  AGACATATAAACATATAAACACATAGAGAAATACACATACAAATAAAGCTATACACACAT  18045
+
+Query  18046  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  18105
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  18046  AAAGAAATATACAGTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  18105
+
+Query  18106  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  18165
+              ||||||||||  ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  18106  ACATAGAGAACTACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  18165
+
+Query  18166  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  18225
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  18166  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  18225
+
+Query  18226  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaac  18285
+              ||||||||||| ||||||||||||||||||||| ||||||||||||||||||| | ||||
+Sbjct  18226  AAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAAAAAC  18285
+
+Query  18286  agacatataaatatataaacacatagagaaaaacacatacaaataaagctagacacacat  18345
+              || |||||||| ||||||||||||||||||||||||||||||||||||||| ||||||||
+Sbjct  18286  AGTCATATAAACATATAAACACATAGAGAAAAACACATACAAATAAAGCTATACACACAT  18345
+
+Query  18346  aaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaac  18405
+              ||||||||||||| ||||||||||||||||||| | ||||||||||||||| ||||||||
+Sbjct  18346  AAAGAAATATACATTTAAAGATATCGACACGAAAAAAAACAGACATATAAACATATAAAC  18405
+
+Query  18406  acatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAG  18465
+              ||||||||||| ||||||||||||||||||| ||||||||||||||||||||| ||||||
+Sbjct  18406  ACATAGAGAAATACACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAG  18465
+
+Query  18466  ATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatac  18525
+              ||||||||||||| | ||||||||||||||| ||||||||||||||||||| ||||||||
+Sbjct  18466  ATATCGACACGAAAAAAAACAGACATATAAACATATAAACACATAGAGAAATACACATAC  18525
+
+Query  18526  aaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGAGAAAC  18585
+              ||||||| ||| |||||||||||||||| |||| ||||||||||||||||||| | ||||
+Sbjct  18526  AAATAAATCTATACACACATAAAGAAATTTACATTTAAAGATATCGACACGAAAAAAAAC  18585
+
+Query  18586  AGACATATAAATATATAAACACATAGAGAAA  18616
+              ||||||||||| |||||||||||||||||||
+Sbjct  18586  AGACATATAAACATATAAACACATAGAGAAA  18616
+
+
+
+
+Range 2: 24 to 10316
+
+Score:12028 bits(6513), Expect:0.0, 
+Identities:9046/10306(88%),  Gaps:26/10306(0%), Strand: Plus/Plus
+
+Query  8324   acaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGa-ga  8382
+              ||| || ||| || | ||||| ||| |||||| ||  || | ||||| ||||  ||| ||
+Sbjct  24     ACAGATGAAGATATAAACACAAAAACAAATATCCATATACAAATATCAACAC-CAGACGA  82
+
+Query  8383   aacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagacaca  8442
+              || | ||||||||||||||||||||||| ||||| | | ||| |||| ||  || | |||
+Sbjct  83     AATATACATATAAATATATAAACACATAAAGAAATATAGATATAAATGAACATATAAACA  142
+
+Query  8443   cataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatata  8502
+              ||||||| ||||||||| |||||| ||| |||| ||  |||| | ||||||||  |||||
+Sbjct  143    CATAAAGGAATATACAAATAAAGAAATCCACACAAAATGAAATATACATATAATGATATA  202
+
+Query  8503   aacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTA  8562
+              ||||||||  |||| | ||| | |||||||| |||||| | |||||||||| |||| | |
+Sbjct  203    AACACATAACGAAATATACAAAGAAATAAAGATAGACATAGATAAAGAAATTTACA-TAA  261
+
+Query  8563   A-AGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacac  8621
+              | ||||||| |||| ||  | || ||||||||||| ||||||  ||  | || || ||| 
+Sbjct  262    ACAGATATCAACACAAAATGCAATAGACATATAAAGATATAATTACGGAAAGCAATACAT  321
+
+Query  8622   atacaaataaagctagacacacataaagaaatatacaATTAAAGATA-TCGACACGAAGa  8680
+              ||| ||||||   || | |||||||||||||||||||  ||||| || | ||  | ||  
+Sbjct  322    ATATAAATAACAATATAAACACATAAAGAAATATACATATAAAGGTATTAGA-TCAAATT  380
+
+Query  8681   gaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagaca  8740
+              |||| | ||||| ||| ||||||||||||||||||| | ||||| |||||||| || | |
+Sbjct  381    GAAATATACATACAAAGATATAAACACATAGAGAAATATACATATAAATAAAGATATAGA  440
+
+Query  8741   cacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatata  8800
+              ||||||||||||||||||  ||| |||||| |||| ||  |||| |||||||||||  ||
+Sbjct  441    CACATAAAGAAATATACATATAACGATATCAACACAAAATGAAATAGACATATAAAGTTA  500
+
+Query  8801   taaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaAT  8860
+              |||||||||||||||  | | ||||||||||   || | |||| ||||||||||||||  
+Sbjct  501    TAAACACATAGAGAACTATAAATACAAATAATAATATAAACACGTAAAGAAATATACATA  560
+
+Query  8861   TAAAGATATCGACACGAAGa-gaaacagacatataaatatataaacacatagagaaaaac  8919
+               |||||| || ||| ||| | |||  |||| | |||| ||| ||||||||||||||| | 
+Sbjct  561    GAAAGATTTCAACA-GAAAATGAATTAGACCTTTAAAGATAAAAACACATAGAGAAATAT  619
+
+Query  8920   acatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAG  8979
+               ||||||||||||| ||   ||||||||||||||||  | |||| |||||| | || || 
+Sbjct  620    GCATACAAATAAAGATATCAACACATAAAGAAATATCTATTTAAGGATATCAAAACAAAA  679
+
+Query  8980   agaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagac  9039
+               |||| |||||||||||   ||||| ||| ||||||| | | ||| |||||| |||| | 
+Sbjct  680    TGAAATAGACATATAAAGCGATAAAAACAAAGAGAAATATAGATATAAATAACGCTATAA  739
+
+Query  9040   acacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatat  9099
+              | ||||||| || ||||||  || |||| || |||| || ||||||||||||| ||| ||
+Sbjct  740    ATACATAAATAAGTATACAGATAGAGATCTCAACACAAAAAGAAACAGACATAGAAACAT  799
+
+Query  9100   ataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaA  9159
+              ||||||||||||||||| | ||||| ||||||||||| | ||||||||||||||||||  
+Sbjct  800    ATAAACACATAGAGAAATATACATAGAAATAAAGCTATAAACACATAAAGAAATATACGT  859
+
+Query  9160   TTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaac  9219
+              | ||||||||| | || || | ||||||||||||||| ||||||||||||||||||| | 
+Sbjct  860    TCAAAGATATCAAAACAAAAACAAACAGACATATAAACATATAAACACATAGAGAAATAT  919
+
+Query  9220   acatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAG  9279
+              || |||||||||||||| |  | ||||||||||||||||    | |||| | |||| || 
+Sbjct  920    ACCTACAAATAAAGCTATAATCTCATAAAGAAATATACATAGGATGATACCAACACAAAA  979
+
+Query  9280   agaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagac  9339
+              |||| ||| || ||||| ||||||||||||||||||| | |||||||| |||||||| | 
+Sbjct  980    AGAACCAGGCAGATAAACATATAAACACATAGAGAAATATACATACAATTAAAGCTATAA  1039
+
+Query  9340   acacataaagaaatatacaATTAAAGATATCGACAC-GAAGagaaacagacatataaata  9398
+              |||| ||||||||||||||  ||||||| || |||| |||   |||| |||||||||| |
+Sbjct  1040   ACACCTAAAGAAATATACATATAAAGATTTCAACACAGAA-TCAAACTGACATATAAACA  1098
+
+Query  9399   tataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatataca  9458
+              ||||||||| ||  |||| | ||||||||| ||||||| | |||||||||| ||||| ||
+Sbjct  1099   TATAAACACGTAAGGAAATATACATACAAAAAAAGCTATAAACACATAAAGTAATATCCA  1158
+
+Query  9459   ATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaa  9518
+                ||||| |||| |||| || ||||||||| |||| || ||| ||||| ||||||||| |
+Sbjct  1159   TATAAAGCTATCAACACAAAAAGAAACAGATATATTAACATAAAAACAAATAGAGAAATA  1218
+
+Query  9519   cacatacaaataaagcta-gacacacataaagaaatatacaATTAAAGATATCGACACGA  9577
+               |||| ||| |||||| | || |||||||||||||||| ||  |||||||||| |||| |
+Sbjct  1219   TACATGCAATTAAAGCCATGA-ACACATAAAGAAATATGCATATAAAGATATCAACACAA  1277
+
+Query  9578   AGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctag  9637
+              | || |||||||||||||| ||||| | |||||| |||| |  |||||||||||||||| 
+Sbjct  1278   AAAGTAACAGACATATAAACATATAGATACATAGCGAAATATTCATACAAATAAAGCTAA  1337
+
+Query  9638   acacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaat  9697
+              | | | || |||| |||||||  | |||||||| |||| || ||||||||||||||||| 
+Sbjct  1338   AAAGATATTAAGACATATACATATGAAGATATCAACACAAAAAGAAACAGACATATAAAC  1397
+
+Query  9698   atataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatac  9757
+              |||||||||||| |||||| |  || ||||||||| ||| | |||||||||||| |||||
+Sbjct  1398   ATATAAACACATTGAGAAATATCCAGACAAATAAATCTATAAACACATAAAGAAGTATAC  1457
+
+Query  9758   aATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaa  9817
+              |  |  ||||||| |||| |  | ||||| |||| |||| |||||||| || ||||||  
+Sbjct  1458   ATATCTAGATATCAACACAATAAAAAACACACATTTAAACATATAAACTCAAAGAGAATT  1517
+
+Query  9818   acacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGA  9877
+              | ||| ||||||||||||| | |||||||||||||||||||  ||||||||   |||| |
+Sbjct  1518   ATACACACAAATAAAGCTATAAACACATAAAGAAATATACATATAAAGATAGAAACACAA  1577
+
+Query  9878   AGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctag  9937
+              | |||||| |||||||||| | |||||||||||||| || | ||||||||||||||||  
+Sbjct  1578   AAAGAAACCGACATATAAACAGATAAACACATAGAGCAATATACATACAAATAAAGCTCT  1637
+
+Query  9938   acacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa-  9996
+              | |||| ||||||||||||||  |||||  ||| ||||  | ||||||||||||||||| 
+Sbjct  1638   AAACACCTAAAGAAATATACATATAAAGTGATCAACACACAAAGAAACAGACATATAAAC  1697
+
+Query  9997   tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  10056
+              || |||||||||||||| || | ||||||||||||| ||| | |||||||||||||||||
+Sbjct  1698   TA-ATAAACACATAGAGTAATATACATACAAATAAATCTATAAACACATAAAGAAATATA  1756
+
+Query  10057  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  10116
+              ||  |||||| ||| |||| || | ||||||| ||||||  ||| |||||||||||||||
+Sbjct  1757   CATATAAAGAGATCAACACTAAAACAAACAGAAATATAACCATACAAACACATAGAGAAA  1816
+
+Query  10117  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  10176
+               | ||||||||||||||||| | ||||| |||||||||||||  |||||||||| |||| 
+Sbjct  1817   TATACATACAAATAAAGCTATAAACACACAAAGAAATATACATATAAAGATATCAACACA  1876
+
+Query  10177  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  10236
+              || ||||||||||||||||| ||||||||||||||||||| | |||||||||||||||||
+Sbjct  1877   AAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  1936
+
+Query  10237  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  10296
+               | |||||||| |||||||||   |||||||||| |||| || |||||||||||||||||
+Sbjct  1937   TAAACACATAATGAAATATACGTATAAAGATATCAACACAAAAAGAAACAGACATATAAA  1996
+
+Query  10297  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  10356
+               |  |||||||||||||||| | |||||||| |||||||||| |||||||||||||||||
+Sbjct  1997   CACGTAAACACATAGAGAAATATACATACAAGTAAAGCTAGAGACACATAAAGAAATATA  2056
+
+Query  10357  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  10416
+              ||  ||||||||||||||| || ||||| |||||||||||  ||||||||||||||||||
+Sbjct  2057   CATGTAAAGATATCGACACAAAAAGAAAAAGACATATAAACTTATAAACACATAGAGAAA  2116
+
+Query  10417  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  10476
+               | ||||||| || |||| | | |||||||||||| ||||||   ||||||||| |||| 
+Sbjct  2117   TATACATACAGATCAAGCAATAGACACATAAAGAAGTATACATACAAAGATATCAACACA  2176
+
+Query  10477  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  10536
+              |  ||||||||||||||||| ||||||||||||||||||| | |||| | ||||||||||
+Sbjct  2177   ACTAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATCCTAATAAAGCTA  2236
+
+Query  10537  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  10596
+               | | |||||||||||||||||  |||||||||| |||| || |||||| ||||||||||
+Sbjct  2237   TAGATACATAAAGAAATATACATATAAAGATATCAACACAAAAAGAAACCGACATATAAA  2296
+
+Query  10597  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  10656
+               ||||||||||| ||||||| | ||||||||||||||||| | ||||||| |||||||||
+Sbjct  2297   CATATAAACACAAAGAGAAATATACATACAAATAAAGCTATAGACACATAGAGAAATATA  2356
+
+Query  10657  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  10716
+              ||   ||| ||||| ||||||| ||||||||||||||||| |||||||||||||||| ||
+Sbjct  2357   CATACAAATATATCAACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGTAA  2416
+
+Query  10717  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  10776
+               | ||||||||||||||| | | |||||||||||||||||||  |||||  ||| |||| 
+Sbjct  2417   GATACATACAAATAAAGCCATAGACACATAAAGAAATATACATATAAAGTCATCAACACA  2476
+
+Query  10777  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  10836
+              || ||||||||||| ||||| ||||||||||||||||||| | |||||||||||||||||
+Sbjct  2477   AAAAGAAACAGACACATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  2536
+
+Query  10837  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  10896
+               |  ||||||||||| ||||||  |||||| ||| ||||||| |||||||||||||||| 
+Sbjct  2537   TAGCCACATAAAGAAGTATACATATAAAGAAATCCACACGAAAAGAAACAGACATATAAT  2596
+
+Query  10897  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  10956
+               ||||||||||||||||||| | ||||||||||||||||| | |||| ||||| ||||||
+Sbjct  2597   CATATAAACACATAGAGAAATATACATACAAATAAAGCTATAGACACGTAAAGTAATATA  2656
+
+Query  10957  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  11016
+              ||  |||||||||| |||| || |||||| ||| |||||| |||||||||||||||||||
+Sbjct  2657   CATATAAAGATATCAACACAAAAAGAAACGGACCTATAAACATATAAACACATAGAGAAA  2716
+
+Query  11017  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  11076
+               | ||||||||||||||||| | ||||| |||||||||||||  |||||||||| |||||
+Sbjct  2717   TATACATACAAATAAAGCTATAGACACAGAAAGAAATATACATATAAAGATATCAACACG  2776
+
+Query  11077  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  11136
+              || ||||||||| | ||||| ||||||||||||||||||| | |||||||||||||||||
+Sbjct  2777   AAAAGAAACAGAGACATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  2836
+
+Query  11137  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  11196
+               | ||  ||| | |||||||||  |||| ||||| ||||||| |||||||||||||||||
+Sbjct  2837   TAGACGTATATATAAATATACATATAAATATATCAACACGAAAAGAAACAGACATATAAA  2896
+
+Query  11197  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  11256
+               |||||||||||||||||||   ||| ||||||||||||| | ||||||||| ||| |||
+Sbjct  2897   CATATAAACACATAGAGAAATGTACAGACAAATAAAGCTATAGACACATAAAAAAACATA  2956
+
+Query  11257  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  11316
+              ||  |||||||||| ||||||| ||||||||||||||| | |||||||||||||||||||
+Sbjct  2957   CATGTAAAGATATCAACACGAAAAGAAACAGACATATAGACATATAAACACATAGAGAAA  3016
+
+Query  11317  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  11376
+               | ||||||||||||||| | | |||||||||||||||||||  |||||||||| |||| 
+Sbjct  3017   TAGACATACAAATAAAGCGATAGACACATAAAGAAATATACATATAAAGATATCTACACC  3076
+
+Query  11377  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  11436
+              || ||||||||||||||||| ||||||||||| ||||||| |||||||||||||||||||
+Sbjct  3077   AAAAGAAACAGACATATAAACATATAAACACAAAGAGAAATACACATACAAATAAAGCTA  3136
+
+Query  11437  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  11496
+               |  ||||||||||||||||||  |||||||||| ||||||| |||||||||| ||||||
+Sbjct  3137   TAGCCACATAAAGAAATATACATATAAAGATATCAACACGAAAAGAAACAGACTTATAAA  3196
+
+Query  11497  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  11556
+               ||||||||||||||||||| | ||||||||| ||||||| | |||||||||||||||||
+Sbjct  3197   CATATAAACACATAGAGAAATATACATACAAAGAAAGCTATAGACACATAAAGAAATATA  3256
+
+Query  11557  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  11616
+              ||  |||||||||| ||||||| |||||| ||||||||||  |||| |||||||||||||
+Sbjct  3257   CATATAAAGATATCAACACGAAAAGAAACGGACATATAAACCTATATACACATAGAGAAA  3316
+
+Query  11617  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  11676
+               | ||  ||||||| || || | ||||||||||||||||| |  ||||||| || |||||
+Sbjct  3317   TATACGCACAAATACAGTTATAGACACATAAAGAAATATAGATATAAAGATCTCAACACG  3376
+
+Query  11677  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  11736
+              || ||||| |||||||| || ||||||||||||||||||| | |||||||||||||||||
+Sbjct  3377   AAAAGAAAGAGACATATTAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  3436
+
+Query  11737  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  11796
+                 |||||||||||||||||||  |||||||||| ||||||| ||||||||| |||| ||
+Sbjct  3437   TCGACACATAAAGAAATATACATCTAAAGATATCAACACGAACAGAAACAGAAATATTAA  3496
+
+Query  11797  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  11856
+               ||||||||||||||||||| | ||||||||||||||||| | |||||||||||||| ||
+Sbjct  3497   CATATAAACACATAGAGAAATATACATACAAATAAAGCTATAGACACATAAAGAAATGTA  3556
+
+Query  11857  caATTAAAGATATCGACACGAAGa-gaaacagacatataaatatataaacacatagagaa  11915
+              ||  |||||||||| |||||| ||  |||||| | |||||| ||||||||||||||||||
+Sbjct  3557   CATATAAAGATATCCACACGA-GATCAAACAGTCGTATAAACATATAAACACATAGAGAA  3615
+
+Query  11916  aaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACAC  11975
+              | | |||||||||||||||||   ||||||||||  |||||||  |||||||||| ||||
+Sbjct  3616   ATATACATACAAATAAAGCTATTGACACATAAAGGGATATACATATAAAGATATCAACAC  3675
+
+Query  11976  GAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagct  12035
+              ||| |||||||||| |||||| ||||||||||||| ||||| | ||||||||||| ||||
+Sbjct  3676   GAAAAGAAACAGACTTATAAACATATAAACACATAAAGAAATATACATACAAATAGAGCT  3735
+
+Query  12036  agacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataa  12095
+              | | |||||||||||||||||||  ||||||||||||||| || || |||||||||||||
+Sbjct  3736   ATAGACACATAAAGAAATATACATATAAAGATATCGACACTAAAAGCAACAGACATATAA  3795
+
+Query  12096  atatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatat  12155
+              | |||||||| |||||||||| | ||||| ||||||||||| | ||||||||||||||||
+Sbjct  3796   ACATATAAACTCATAGAGAAATATACATAAAAATAAAGCTATAGACACATAAAGAAATAT  3855
+
+Query  12156  acaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaa  12215
+              |||  |||||||||||||||||| ||||||||||||||||| |||||| |||||| ||||
+Sbjct  3856   ACATATAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAACCACATAAAGAA  3915
+
+Query  12216  aaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACAC  12275
+              | | ||||||||||||||||| | | |||||||||||||||||  |||||||||||||||
+Sbjct  3916   ATATACATACAAATAAAGCTATAGAAACATAAAGAAATATACATATAAAGATATCGACAC  3975
+
+Query  12276  GAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagct  12335
+              ||| ||||||||||||||||| |||||||||||||||||||   ||||||||||||||||
+Sbjct  3976   GAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATTTACATACAAATAAAGCT  4035
+
+Query  12336  agacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataa  12395
+              | | ||||||||||||| ||||| ||||||||||||||||||  ||||||||||| ||||
+Sbjct  4036   ATAGACACATAAAGAAACATACATTTAAAGATATCGACACGAGAAGAAACAGACAAATAA  4095
+
+Query  12396  atatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatat  12455
+              | ||||||||| |||||||||    |||||||||| ||||| | ||||||||||||||| 
+Sbjct  4096   ACATATAAACAGATAGAGAAATTTTCATACAAATACAGCTATAGACACATAAAGAAATAC  4155
+
+Query  12456  acaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaa  12515
+              |||  |||||||||||||||||| |||||||||||||| || ||||||||||||||||||
+Sbjct  4156   ACATATAAAGATATCGACACGAAAAGAAACAGACATATGAACATATAAACACATAGAGAA  4215
+
+Query  12516  aaacacatacaaataaagctagacacacataaagaaatatacaATTAAA-GATATCGACA  12574
+              | | |||||||| |||||||| | ||||||||||||||||||| |  || || |||| ||
+Sbjct  4216   ATATACATACAACTAAAGCTATAGACACATAAAGAAATATACA-TACAAGGAGATCGCCA  4274
+
+Query  12575  CGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagc  12634
+              |||| ||||||||||||||||| ||||||| |||||||||     |||||||||||||||
+Sbjct  4275   CGAAAAGAAACAGACATATAAACATATAAAAACATAGAGATTTTTACATACAAATAAAGC  4334
+
+Query  12635  tagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatata  12694
+              || | |||||||||||||||||||  |||||||||||||||||| | ||| |||||||||
+Sbjct  4335   TATAGACACATAAAGAAATATACATGTAAAGATATCGACACGAAAATAAAAAGACATATA  4394
+
+Query  12695  aatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaata  12754
+              || ||||||||||||||||||| | ||||||||||||||||| | |||||||||||||||
+Sbjct  4395   AACATATAAACACATAGAGAAATATACATACAAATAAAGCTAAAGACACATAAAGAAATA  4454
+
+Query  12755  taca-ATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagag  12813
+              |||| |||  ||||| ||| ||||| |||||||||||||||||||||| |||||||||||
+Sbjct  4455   TACATATT-TAGATAGCGAAACGAAAAGAAACAGACATATAAATATATCAACACATAGAG  4513
+
+Query  12814  aaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGAC  12873
+              ||| | |||||||||||||||||   |||||| ||||||||||||  | |||||||||| 
+Sbjct  4514   AAATATACATACAAATAAAGCTATTGACACATTAAGAAATATACATATGAAGATATCGAA  4573
+
+Query  12874  ACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaag  12933
+              ||||| ||||||||| ||| ||| ||||||||||||||||||| | |||| |||  ||||
+Sbjct  4574   ACGAAAAGAAACAGAGATAAAAACATATAAACACATAGAGAAATATACATCCAATGAAAG  4633
+
+Query  12934  ctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatat  12993
+              ||| |  ||||||| ||| ||||||  ||||||| |||||||||| ||||||||||||||
+Sbjct  4634   CTATAGCCACATAAGGAAGTATACATATAAAGATCTCGACACGAAAAGAAACAGACATAT  4693
+
+Query  12994  aaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaat  13053
+              ||| ||||||||||||||||||| | ||||||||| |||||||   ||||||||||||||
+Sbjct  4694   AAACATATAAACACATAGAGAAATATACATACAAACAAAGCTATCGACACATAAAGAAAT  4753
+
+Query  13054  atacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagag  13113
+              |||||   ||||||||||||||||| |||||||||||||| || | ||||||| ||||||
+Sbjct  4754   ATACACACAAAGATATCGACACGAAAAGAAACAGACATATTAACACATAAACATATAGAG  4813
+
+Query  13114  aaaaacacatacaaataaagcta--gacacacataaagaaatatacaATTAAAGATATCG  13171
+              ||| | |||||||||||||||||  ||||| | ||||||| ||||||  |||||||||||
+Sbjct  4814   AAATATACATACAAATAAAGCTATTGACAC-C-TAAAGAACTATACATATAAAGATATCG  4871
+
+Query  13172  ACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataa  13231
+              ||||||| |||||||||||| | || ||||||||||||||||||| | ||||||| ||||
+Sbjct  4872   ACACGAAAAGAAACAGACATCTCAACATATAAACACATAGAGAAATATACATACACATAA  4931
+
+Query  13232  agctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacat  13291
+              ||||| | |||||||||||||||||||  ||||| ||||||| |||| |||||||||| |
+Sbjct  4932   AGCTATAGACACATAAAGAAATATACATATAAAGCTATCGACGCGAAAAGAAACAGACCT  4991
+
+Query  13292  ataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaa  13351
+              ||||| |||| ||||| |||||  | | ||||||||||||||||| | ||||||||||||
+Sbjct  4992   ATAAACATATCAACACTTAGAGGTATATACATACAAATAAAGCTACAGACACATAAAGAA  5051
+
+Query  13352  atatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatag  13411
+              |||||||  |||||||||||||||||| ||||||||||||||||| ||||||||||||||
+Sbjct  5052   ATATACATATAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAG  5111
+
+Query  13412  agaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCG  13471
+              ||||| | ||||||||||||||||| | |||||||||||||||||||  |||||||  ||
+Sbjct  5112   AGAAATATACATACAAATAAAGCTATAGACACATAAAGAAATATACATATAAAGATTGCG  5171
+
+Query  13472  ACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataa  13531
+              ||||||| ||| ||||||||||||| ||||||||||||||||||| | ||||||||||||
+Sbjct  5172   ACACGAAAAGACACAGACATATAAACATATAAACACATAGAGAAATATACATACAAATAA  5231
+
+Query  13532  agctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacat  13591
+              ||||| | ||||||||||||||||||   |||||||||||||||||| ||||||||||||
+Sbjct  5232   AGCTATAGACACATAAAGAAATATACTTATAAAGATATCGACACGAAAAGAAACAGACAT  5291
+
+Query  13592  ataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaa  13651
+              ||||| |||||| |||||||||||| | |||||||||| |||||| ||| ||||||| | 
+Sbjct  5292   ATAAACATATAAGCACATAGAGAAATATACATACAAATTAAGCTATACATACATAAAAAG  5351
+
+Query  13652  atatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatag  13711
+              |||||||  |||||||||||||||||| ||||||||||||||| | |||| |||||||||
+Sbjct  5352   ATATACATATAAAGATATCGACACGAAAAGAAACAGACATATACACATATCAACACATAG  5411
+
+Query  13712  agaaaaacacatacaaataaagctagacacacataaagaaatataca-ATTAAAGATATC  13770
+              |||||   ||||||||||||||||| | |||||||| |||||||||| | | ||||||||
+Sbjct  5412   AGAAATTTACATACAAATAAAGCTATAGACACATAACGAAATATACATAGT-AAGATATC  5470
+
+Query  13771  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  13830
+              | |||||| ||||||||||||| ||| ||||||||||||||||||| | |||||||||||
+Sbjct  5471   GCCACGAAAAGAAACAGACATAGAAACATATAAACACATAGAGAAATATACATACAAATA  5530
+
+Query  13831  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  13890
+              || |||   |||||||||||||||||||  |||| |||||||||||||||||| ||||||
+Sbjct  5531   AAACTATTGACACATAAAGAAATATACATATAAATATATCGACACGAAGAGAACCAGACA  5590
+
+Query  13891  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  13950
+              |||||| ||||||||||||||||||| | ||||||||||||||||| | |||||||||||
+Sbjct  5591   TATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATAAACACATAAAGA  5650
+
+Query  13951  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  14010
+              ||||||||  ||||||||||||||||||  ||||||||||| |||| |||||||||||| 
+Sbjct  5651   AATATACATATAAAGATATCGACACGAAAGGAAACAGACATCTAAACATATAAACACATG  5710
+
+Query  14011  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  14070
+              |||||| | ||||||||||||||| | | ||||||||| |||||||||  ||||||||||
+Sbjct  5711   GAGAAAGATACATACAAATAAAGCGATAGACACATAAATAAATATACATATAAAGATATC  5770
+
+Query  14071  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  14130
+              ||||| || ||||||||||||||||  ||||||||||||||||||| | ||| |||||||
+Sbjct  5771   GACACCAAAAGAAACAGACATATAACCATATAAACACATAGAGAAATATACAAACAAATA  5830
+
+Query  14131  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  14190
+              |||||| | |||||||||||||||||||   ||||||| ||||||||| |||||||||||
+Sbjct  5831   AAGCTATAGACACATAAAGAAATATACATAGAAAGATACCGACACGAAAAGAAACAGACA  5890
+
+Query  14191  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  14250
+              |||||| ||||||||||||||||||| | || |||||||||||||| | |||||||||||
+Sbjct  5891   TATAAACATATAAACACATAGAGAAATATACCTACAAATAAAGCTATAGACACATAAAGA  5950
+
+Query  14251  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  14310
+              ||| ||||  |||||||||||||||||| |||||||||||||| || |||||||| ||||
+Sbjct  5951   AATCTACATATAAAGATATCGACACGAAAAGAAACAGACATATTAACATATAAACGCATA  6010
+
+Query  14311  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  14370
+              |||||| | ||||||||||| ||||| | |||||||||||||||||||  ||||||||||
+Sbjct  6011   GAGAAATATACATACAAATATAGCTATAGACACATAAAGAAATATACATATAAAGATATC  6070
+
+Query  14371  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  14430
+              |||||||| ||||||||||||| ||| ||||||||||||||||||| | |||||||||||
+Sbjct  6071   GACACGAAAAGAAACAGACATACAAACATATAAACACATAGAGAAATATACATACAAATA  6130
+
+Query  14431  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  14490
+              |||||| | |||||||||||||||||||  ||||||||||||| |||| |||||||||||
+Sbjct  6131   AAGCTATAGACACATAAAGAAATATACATATAAAGATATCGACGCGAAAAGAAACAGACA  6190
+
+Query  14491  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  14550
+              |||||| ||||||||||||||||||| | |||| |||||||||||| | |||||||||||
+Sbjct  6191   TATAAACATATAAACACATAGAGAAATATACATTCAAATAAAGCTATAGACACATAAAGA  6250
+
+Query  14551  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  14610
+              || |||||  || ||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  6251   AAGATACATATAGAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  6310
+
+Query  14611  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  14670
+              |||||| | |||| ||||||| |||| |||||||||||||||||||||   |||||||||
+Sbjct  6311   GAGAAATATACATGCAAATAAGGCTATACACACATAAAGAAATATACATAAAAAGATATC  6370
+
+Query  14671  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  14730
+              |||||||| ||||||||||||||||| ||||||||||||||||||| | |||||||||||
+Sbjct  6371   GACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACAAATA  6430
+
+Query  14731  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  14790
+              |||||| |||||| ||||||||||||||  |||||||||||||||||| | |||||||||
+Sbjct  6431   AAGCTATACACACGTAAAGAAATATACATATAAAGATATCGACACGAAAAAAAACAGACA  6490
+
+Query  14791  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  14850
+              |||||| | |||||||||| |||| | | ||||||||| ||||||| |||||||||||||
+Sbjct  6491   TATAAACAAATAAACACATGGAGACATATACATACAAAGAAAGCTATACACACATAAAGA  6550
+
+Query  14851  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  14910
+              ||||||||  |||||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  6551   AATATACATATAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  6610
+
+Query  14911  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  14970
+              |||||| | |||||| |||||| ||| ||||||||||||||||||||| |||||||||||
+Sbjct  6611   GAGAAATATACATACCAATAAACCTATACACACATAAAGAAATATACATTTAAAGATATC  6670
+
+Query  14971  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  15030
+               ||||||| ||||||||||||||||| ||||||||||||||||||| | ||||||||| |
+Sbjct  6671   TACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACAAAGA  6730
+
+Query  15031  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  15090
+              |||||| ||||||||| ||||||||||| ||||||||||||||||||| |||||||||||
+Sbjct  6731   AAGCTATACACACATATAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACA  6790
+
+Query  15091  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  15150
+              ||||||  |||||||||||||||||| | ||||||||  ||||||| |||||||||||||
+Sbjct  6791   TATAAACCTATAAACACATAGAGAAATATACATACAATGAAAGCTATACACACATAAAGA  6850
+
+Query  15151  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  15210
+              |||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  6851   AATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  6910
+
+Query  15211  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  15270
+              |||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||| ||
+Sbjct  6911   GAGAAATATACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATCTC  6970
+
+Query  15271  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  15330
+              |||||||| ||||||||||||||||| |||||||| | |||||||| | |||||||||||
+Sbjct  6971   GACACGAAAAGAAACAGACATATAAACATATAAACGCCTAGAGAAATATACATACAAATA  7030
+
+Query  15331  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  15390
+              |||||| ||||| |||||||||| |||| ||||||||||||||||||| |||||||||||
+Sbjct  7031   AAGCTATACACATATAAAGAAATGTACATTTAAAGATATCGACACGAAAAGAAACAGACA  7090
+
+Query  15391  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  15450
+              |||||||||||||||||||||||||| | |||||| |||||||||| |||||||||||||
+Sbjct  7091   TATAAATATATAAACACATAGAGAAATATACATACGAATAAAGCTATACACACATAAAGA  7150
+
+Query  15451  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  15510
+              |||||||| |||||||||| |||||||| || |||||||||||||| |||||||||||| 
+Sbjct  7151   AATATACATTTAAAGATATGGACACGAAAAGTAACAGACATATAAACATATAAACACATT  7210
+
+Query  15511  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  15570
+              |||||| | ||||||||||||| ||| ||||||||||||||||||||| |||||||||||
+Sbjct  7211   GAGAAATATACATACAAATAAACCTATACACACATAAAGAAATATACACTTAAAGATATC  7270
+
+Query  15571  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  15630
+              |||||||| ||||||||||||||||| ||||||||||| ||||||| | |||||| ||||
+Sbjct  7271   GACACGAAAAGAAACAGACATATAAACATATAAACACAAAGAGAAATATACATACCAATA  7330
+
+Query  15631  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  15690
+              ||||||  ||| ||||||||||||| || ||||||||||||||||||| |||||||||||
+Sbjct  7331   AAGCTATGCACGCATAAAGAAATATGCATTTAAAGATATCGACACGAAAAGAAACAGACA  7390
+
+Query  15691  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  15750
+              |||| | ||||||||||  |||||||   ||||||||||||| ||| |||||||||||||
+Sbjct  7391   TATATACATATAAACACCAAGAGAAATGTACATACAAATAAACCTATACACACATAAAGA  7450
+
+Query  15751  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  15810
+              ||||| || ||||||||||||||| ||| ||||||||||||||||| ||||||| |||||
+Sbjct  7451   AATATGCATTTAAAGATATCGACATGAAAAGAAACAGACATATAAACATATAAAAACATA  7510
+
+Query  15811  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  15870
+              |||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||||||
+Sbjct  7511   GAGAAATATACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATC  7570
+
+Query  15871  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  15930
+              ||| |||| ||||||||||||||| | ||||||||||||||||||| | |||| ||||||
+Sbjct  7571   GACCCGAAAAGAAACAGACATATAGACATATAAACACATAGAGAAATATACATGCAAATA  7630
+
+Query  15931  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  15990
+              |||||| ||||||||||||||||| ||| |||||||||||||| |||| |||||||||||
+Sbjct  7631   AAGCTATACACACATAAAGAAATAGACATTTAAAGATATCGACCCGAAAAGAAACAGACA  7690
+
+Query  15991  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  16050
+              || ||| ||||||||||||||||||| | ||||||||||||||||| |||||||||||||
+Sbjct  7691   TAAAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATAAAGA  7750
+
+Query  16051  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  16110
+              |||||||| ||||||||||||||||||| |||||||||||||| || |||||||||||| 
+Sbjct  7751   AATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATTAACATATAAACACATT  7810
+
+Query  16111  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  16170
+              |||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||||||
+Sbjct  7811   GAGAAATATACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATC  7870
+
+Query  16171  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  16230
+              |||||||| ||||||||||| ||||| || |||||||||||||| | | |||||||||||
+Sbjct  7871   GACACGAAAAGAAACAGACACATAAACATGTAAACACATAGAGAGATATACATACAAATA  7930
+
+Query  16231  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  16290
+              |||||| ||||||||||||||||||||| ||||| ||||||||| ||| ||||||||| |
+Sbjct  7931   AAGCTATACACACATAAAGAAATATACATTTAAACATATCGACAGGAAAAGAAACAGATA  7990
+
+Query  16291  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  16350
+              |||||| ||| ||||||||||||||| | ||||||||||||||||| |||||||||||||
+Sbjct  7991   TATAAACATAGAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATAAAGA  8050
+
+Query  16351  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  16410
+              |||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  8051   AATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  8110
+
+Query  16411  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  16470
+               ||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||||||
+Sbjct  8111   CAGAAATATACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATC  8170
+
+Query  16471  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  16530
+              |||||||| ||||||||||||||||| |||||| |||||||||||||| |||||||||||
+Sbjct  8171   GACACGAAAAGAAACAGACATATAAACATATAATCACATAGAGAAAAATACATACAAATA  8230
+
+Query  16531  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  16590
+              ||| || || |||||||||||||||||| |||||||||||||| | || |||||||||||
+Sbjct  8231   AAGATATACTCACATAAAGAAATATACATTTAAAGATATCGACCCAAAAAGAAACAGACA  8290
+
+Query  16591  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  16650
+              ||||||  |||| ||||||||||||| |  |||||| ||||||||| || ||||||||||
+Sbjct  8291   TATAAACCTATATACACATAGAGAAATATCCATACATATAAAGCTATACCCACATAAAGA  8350
+
+Query  16651  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  16710
+              |||||||| |||| |||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  8351   AATATACATTTAATGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  8410
+
+Query  16711  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  16770
+              ||||||   ||||||||||||||||| ||||||||||||||||||||| |||||||||||
+Sbjct  8411   GAGAAATGTACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATC  8470
+
+Query  16771  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  16830
+              |||||||| |||| |||||||||||| |||||| |||||||||||| | |||||||||||
+Sbjct  8471   GACACGAAAAGAACCAGACATATAAACATATAAGCACATAGAGAAATATACATACAAATA  8530
+
+Query  16831  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  16890
+              |||||| | ||||||||| ||||||||| |||||| |||||||||||| |||||||||||
+Sbjct  8531   AAGCTATATACACATAAACAAATATACATTTAAAGGTATCGACACGAAAAGAAACAGACA  8590
+
+Query  16891  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  16950
+              |||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||||||
+Sbjct  8591   TATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATAAAGA  8650
+
+Query  16951  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  17010
+              | |||||| |||||| ||| |||||||| ||||||||||||||||| ||||||||| |||
+Sbjct  8651   ACTATACATTTAAAGTTATAGACACGAAAAGAAACAGACATATAAACATATAAACATATA  8710
+
+Query  17011  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  17070
+              |||||| | ||||||||||||||||| ||||||||||| ||||||||| ||||||||| |
+Sbjct  8711   GAGAAATATACATACAAATAAAGCTATACACACATAAATAAATATACATTTAAAGATACC  8770
+
+Query  17071  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  17130
+              |||||||| |||||||||||| |||| ||||| ||||||||||||| | |||||||||||
+Sbjct  8771   GACACGAAAAGAAACAGACATTTAAACATATATACACATAGAGAAATATACATACAAATA  8830
+
+Query  17131  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  17190
+              |||||| ||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  8831   AAGCTATACACACATAAAGAAATATACAATTAAAGATATCGACACGAAAAGAAACAGACA  8890
+
+Query  17191  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  17250
+              |||||| |||||| |||||||||||| | ||||||||||||||||| |||||||||||||
+Sbjct  8891   TATAAACATATAACCACATAGAGAAATATACATACAAATAAAGCTATACACACATAAAGA  8950
+
+Query  17251  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  17310
+              |||||||| ||||||||||||||||||| ||||||||||| || || |||||||||||||
+Sbjct  8951   AATATACATTTAAAGATATCGACACGAAAAGAAACAGACAGATTAACATATAAACACATA  9010
+
+Query  17311  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  17370
+              |||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||||||
+Sbjct  9011   GAGAAATATACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATC  9070
+
+Query  17371  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  17430
+              |||||||| ||||||||||||||||| |||||||||| |||||||| | || ||||||||
+Sbjct  9071   GACACGAAAAGAAACAGACATATAAACATATAAACACTTAGAGAAATATACCTACAAATA  9130
+
+Query  17431  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  17490
+              ||||   ||||||||||||||||||||| ||||||||||||||||||| |||||||||||
+Sbjct  9131   AAGCGGTACACACATAAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACA  9190
+
+Query  17491  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  17550
+              |||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||| ||
+Sbjct  9191   TATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATAACGA  9250
+
+Query  17551  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  17610
+              ||| |||| ||||| ||||||||||||| ||||||||||||||||| ||||||||| |||
+Sbjct  9251   AATCTACAGTTAAACATATCGACACGAAAAGAAACAGACATATAAACATATAAACATATA  9310
+
+Query  17611  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  17670
+              |||||| | |||||||||||||||||  |||||||||||||||||||| |||||||||||
+Sbjct  9311   GAGAAATATACATACAAATAAAGCTATGCACACATAAAGAAATATACATTTAAAGATATC  9370
+
+Query  17671  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  17730
+              |||||||| ||||||||||||||||| | ||||||||||||||||| | |||||||||||
+Sbjct  9371   GACACGAAAAGAAACAGACATATAAACACATAAACACATAGAGAAATATACATACAAATA  9430
+
+Query  17731  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  17790
+              |||||| |||| ||||||| |||||||| |||| |||||||||||||  |||||||||||
+Sbjct  9431   AAGCTATACACCCATAAAGCAATATACATTTAACGATATCGACACGAGAAGAAACAGACA  9490
+
+Query  17791  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  17850
+              |||||| ||||||||||||||||||| | ||||||||||||||||| |||||||||||||
+Sbjct  9491   TATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATACACACATAAAGA  9550
+
+Query  17851  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  17910
+              |||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  9551   AATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  9610
+
+Query  17911  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  17970
+              |||||| | ||||||||||||||||| ||||||||||||| ||||||| |||||||||||
+Sbjct  9611   GAGAAATATACATACAAATAAAGCTATACACACATAAAGAGATATACATTTAAAGATATC  9670
+
+Query  17971  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  18030
+              ||||||||  |||||||||||||||| | ||||||||||||||||| | || ||||||||
+Sbjct  9671   GACACGAAATGAAACAGACATATAAACAGATAAACACATAGAGAAATATACCTACAAATA  9730
+
+Query  18031  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  18090
+              |||||| ||||||||||||||||||||||||||||||||||||||||| |||||||||||
+Sbjct  9731   AAGCTATACACACATAAAGAAATATACAATTAAAGATATCGACACGAAAAGAAACAGACA  9790
+
+Query  18091  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  18150
+              |||||| ||||||||||||| ||||| | ||||||||||||||||| |||||||||||||
+Sbjct  9791   TATAAACATATAAACACATAAAGAAATATACATACAAATAAAGCTATACACACATAAAGA  9850
+
+Query  18151  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  18210
+              |||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  9851   AATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  9910
+
+Query  18211  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  18270
+              |||||| | ||||||||||||||||  ||||||||||||||||||||| |||||||||||
+Sbjct  9911   GAGAAATATACATACAAATAAAGCTCTACACACATAAAGAAATATACATTTAAAGATATC  9970
+
+Query  18271  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  18330
+              || ||||||||||||||||||||||| ||||||||||||||||||| | ||| |||||||
+Sbjct  9971   GAGACGAAGAGAAACAGACATATAAACATATAAACACATAGAGAAATAGACAAACAAATA  10030
+
+Query  18331  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  18390
+              |||||| |||||||| |||||||||||| ||||||||||||||||||| |||||||||||
+Sbjct  10031  AAGCTATACACACATCAAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACA  10090
+
+Query  18391  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  18450
+              |||| | |||||||| | || ||||| | |||||||||||||||||  |||||||| |||
+Sbjct  10091  TATAGACATATAAACCCTTAAAGAAATAGACATACAAATAAAGCTATTCACACATAGAGA  10150
+
+Query  18451  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  18510
+              |||||||| ||||| ||||||||||||| |||| || ||||||||| |||||||||||||
+Sbjct  10151  AATATACATTTAAAAATATCGACACGAAAAGAATCATACATATAAACATATAAACACATA  10210
+
+Query  18511  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  18570
+              |||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||||||
+Sbjct  10211  GAGAAATAGACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATATC  10270
+
+Query  18571  GACACGAAGAGAAACAGACATATAAATATATAAACACATAGAGAAA  18616
+              ||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  10271  GACACGAAGAGAAACAGACATATAAATATATAAACACATAGAGAAA  10316
+
+
+
+
+Range 3: 24 to 7116
+
+Score:7670 bits(4153), Expect:0.0, 
+Identities:6126/7106(86%),  Gaps:26/7106(0%), Strand: Plus/Plus
+
+Query  11524  acaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGa-ga  11582
+              ||| || ||| || | ||||| ||| |||||| ||  || | ||||| ||||  ||| ||
+Sbjct  24     ACAGATGAAGATATAAACACAAAAACAAATATCCATATACAAATATCAACAC-CAGACGA  82
+
+Query  11583  aacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagacaca  11642
+              || | ||||||||||||||||||||||| ||||| | | ||| |||| ||  || | |||
+Sbjct  83     AATATACATATAAATATATAAACACATAAAGAAATATAGATATAAATGAACATATAAACA  142
+
+Query  11643  cataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatata  11702
+              ||||||| ||||||||| |||||| ||| |||| ||  |||| | ||||||||  |||||
+Sbjct  143    CATAAAGGAATATACAAATAAAGAAATCCACACAAAATGAAATATACATATAATGATATA  202
+
+Query  11703  aacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTA  11762
+              ||||||||  |||| | ||| | |||||||| |||||| | |||||||||| |||| | |
+Sbjct  203    AACACATAACGAAATATACAAAGAAATAAAGATAGACATAGATAAAGAAATTTACA-TAA  261
+
+Query  11763  A-AGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaacac  11821
+              | ||||||| |||| ||  | || ||||||||||| ||||||  ||  | || || ||| 
+Sbjct  262    ACAGATATCAACACAAAATGCAATAGACATATAAAGATATAATTACGGAAAGCAATACAT  321
+
+Query  11822  atacaaataaagctagacacacataaagaaatatacaATTAAAGATA-TCGACACGAAGa  11880
+              ||| ||||||   || | |||||||||||||||||||  ||||| || | ||  | ||  
+Sbjct  322    ATATAAATAACAATATAAACACATAAAGAAATATACATATAAAGGTATTAGA-TCAAATT  380
+
+Query  11881  gaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagaca  11940
+              |||| | ||||| ||| ||||||||||||||||||| | ||||| |||||||| || | |
+Sbjct  381    GAAATATACATACAAAGATATAAACACATAGAGAAATATACATATAAATAAAGATATAGA  440
+
+Query  11941  cacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatata  12000
+              ||||||||||||||||||  ||| |||||| |||| ||  |||| |||||||||||  ||
+Sbjct  441    CACATAAAGAAATATACATATAACGATATCAACACAAAATGAAATAGACATATAAAGTTA  500
+
+Query  12001  taaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaAT  12060
+              |||||||||||||||  | | ||||||||||   || | |||| ||||||||||||||  
+Sbjct  501    TAAACACATAGAGAACTATAAATACAAATAATAATATAAACACGTAAAGAAATATACATA  560
+
+Query  12061  TAAAGATATCGACACGAAGa-gaaacagacatataaatatataaacacatagagaaaaac  12119
+               |||||| || ||| ||| | |||  |||| | |||| ||| ||||||||||||||| | 
+Sbjct  561    GAAAGATTTCAACA-GAAAATGAATTAGACCTTTAAAGATAAAAACACATAGAGAAATAT  619
+
+Query  12120  acatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAG  12179
+               ||||||||||||| ||   ||||||||||||||||  | |||| |||||| | || || 
+Sbjct  620    GCATACAAATAAAGATATCAACACATAAAGAAATATCTATTTAAGGATATCAAAACAAAA  679
+
+Query  12180  agaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagac  12239
+               |||| |||||||||||   ||||| ||| ||||||| | | ||| |||||| |||| | 
+Sbjct  680    TGAAATAGACATATAAAGCGATAAAAACAAAGAGAAATATAGATATAAATAACGCTATAA  739
+
+Query  12240  acacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatat  12299
+              | ||||||| || ||||||  || |||| || |||| || ||||||||||||| ||| ||
+Sbjct  740    ATACATAAATAAGTATACAGATAGAGATCTCAACACAAAAAGAAACAGACATAGAAACAT  799
+
+Query  12300  ataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatacaA  12359
+              ||||||||||||||||| | ||||| ||||||||||| | ||||||||||||||||||  
+Sbjct  800    ATAAACACATAGAGAAATATACATAGAAATAAAGCTATAAACACATAAAGAAATATACGT  859
+
+Query  12360  TTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaac  12419
+              | ||||||||| | || || | ||||||||||||||| ||||||||||||||||||| | 
+Sbjct  860    TCAAAGATATCAAAACAAAAACAAACAGACATATAAACATATAAACACATAGAGAAATAT  919
+
+Query  12420  acatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAG  12479
+              || |||||||||||||| |  | ||||||||||||||||    | |||| | |||| || 
+Sbjct  920    ACCTACAAATAAAGCTATAATCTCATAAAGAAATATACATAGGATGATACCAACACAAAA  979
+
+Query  12480  agaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctagac  12539
+              |||| ||| || ||||| ||||||||||||||||||| | |||||||| |||||||| | 
+Sbjct  980    AGAACCAGGCAGATAAACATATAAACACATAGAGAAATATACATACAATTAAAGCTATAA  1039
+
+Query  12540  acacataaagaaatatacaATTAAAGATATCGACAC-GAAGagaaacagacatataaata  12598
+              |||| ||||||||||||||  ||||||| || |||| |||   |||| |||||||||| |
+Sbjct  1040   ACACCTAAAGAAATATACATATAAAGATTTCAACACAGAA-TCAAACTGACATATAAACA  1098
+
+Query  12599  tataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatataca  12658
+              ||||||||| ||  |||| | ||||||||| ||||||| | |||||||||| ||||| ||
+Sbjct  1099   TATAAACACGTAAGGAAATATACATACAAAAAAAGCTATAAACACATAAAGTAATATCCA  1158
+
+Query  12659  ATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaaa  12718
+                ||||| |||| |||| || ||||||||| |||| || ||| ||||| ||||||||| |
+Sbjct  1159   TATAAAGCTATCAACACAAAAAGAAACAGATATATTAACATAAAAACAAATAGAGAAATA  1218
+
+Query  12719  cacatacaaataaagcta-gacacacataaagaaatatacaATTAAAGATATCGACACGA  12777
+               |||| ||| |||||| | || |||||||||||||||| ||  |||||||||| |||| |
+Sbjct  1219   TACATGCAATTAAAGCCATGA-ACACATAAAGAAATATGCATATAAAGATATCAACACAA  1277
+
+Query  12778  AGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctag  12837
+              | || |||||||||||||| ||||| | |||||| |||| |  |||||||||||||||| 
+Sbjct  1278   AAAGTAACAGACATATAAACATATAGATACATAGCGAAATATTCATACAAATAAAGCTAA  1337
+
+Query  12838  acacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaat  12897
+              | | | || |||| |||||||  | |||||||| |||| || ||||||||||||||||| 
+Sbjct  1338   AAAGATATTAAGACATATACATATGAAGATATCAACACAAAAAGAAACAGACATATAAAC  1397
+
+Query  12898  atataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatatac  12957
+              |||||||||||| |||||| |  || ||||||||| ||| | |||||||||||| |||||
+Sbjct  1398   ATATAAACACATTGAGAAATATCCAGACAAATAAATCTATAAACACATAAAGAAGTATAC  1457
+
+Query  12958  aATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaaa  13017
+              |  |  ||||||| |||| |  | ||||| |||| |||| |||||||| || ||||||  
+Sbjct  1458   ATATCTAGATATCAACACAATAAAAAACACACATTTAAACATATAAACTCAAAGAGAATT  1517
+
+Query  13018  acacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACGA  13077
+              | ||| ||||||||||||| | |||||||||||||||||||  ||||||||   |||| |
+Sbjct  1518   ATACACACAAATAAAGCTATAAACACATAAAGAAATATACATATAAAGATAGAAACACAA  1577
+
+Query  13078  AGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagctag  13137
+              | |||||| |||||||||| | |||||||||||||| || | ||||||||||||||||  
+Sbjct  1578   AAAGAAACCGACATATAAACAGATAAACACATAGAGCAATATACATACAAATAAAGCTCT  1637
+
+Query  13138  acacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa-  13196
+              | |||| ||||||||||||||  |||||  ||| ||||  | ||||||||||||||||| 
+Sbjct  1638   AAACACCTAAAGAAATATACATATAAAGTGATCAACACACAAAGAAACAGACATATAAAC  1697
+
+Query  13197  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  13256
+              || |||||||||||||| || | ||||||||||||| ||| | |||||||||||||||||
+Sbjct  1698   TA-ATAAACACATAGAGTAATATACATACAAATAAATCTATAAACACATAAAGAAATATA  1756
+
+Query  13257  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  13316
+              ||  |||||| ||| |||| || | ||||||| ||||||  ||| |||||||||||||||
+Sbjct  1757   CATATAAAGAGATCAACACTAAAACAAACAGAAATATAACCATACAAACACATAGAGAAA  1816
+
+Query  13317  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  13376
+               | ||||||||||||||||| | ||||| |||||||||||||  |||||||||| |||| 
+Sbjct  1817   TATACATACAAATAAAGCTATAAACACACAAAGAAATATACATATAAAGATATCAACACA  1876
+
+Query  13377  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  13436
+              || ||||||||||||||||| ||||||||||||||||||| | |||||||||||||||||
+Sbjct  1877   AAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  1936
+
+Query  13437  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  13496
+               | |||||||| |||||||||   |||||||||| |||| || |||||||||||||||||
+Sbjct  1937   TAAACACATAATGAAATATACGTATAAAGATATCAACACAAAAAGAAACAGACATATAAA  1996
+
+Query  13497  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  13556
+               |  |||||||||||||||| | |||||||| |||||||||| |||||||||||||||||
+Sbjct  1997   CACGTAAACACATAGAGAAATATACATACAAGTAAAGCTAGAGACACATAAAGAAATATA  2056
+
+Query  13557  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  13616
+              ||  ||||||||||||||| || ||||| |||||||||||  ||||||||||||||||||
+Sbjct  2057   CATGTAAAGATATCGACACAAAAAGAAAAAGACATATAAACTTATAAACACATAGAGAAA  2116
+
+Query  13617  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  13676
+               | ||||||| || |||| | | |||||||||||| ||||||   ||||||||| |||| 
+Sbjct  2117   TATACATACAGATCAAGCAATAGACACATAAAGAAGTATACATACAAAGATATCAACACA  2176
+
+Query  13677  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  13736
+              |  ||||||||||||||||| ||||||||||||||||||| | |||| | ||||||||||
+Sbjct  2177   ACTAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATCCTAATAAAGCTA  2236
+
+Query  13737  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  13796
+               | | |||||||||||||||||  |||||||||| |||| || |||||| ||||||||||
+Sbjct  2237   TAGATACATAAAGAAATATACATATAAAGATATCAACACAAAAAGAAACCGACATATAAA  2296
+
+Query  13797  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  13856
+               ||||||||||| ||||||| | ||||||||||||||||| | ||||||| |||||||||
+Sbjct  2297   CATATAAACACAAAGAGAAATATACATACAAATAAAGCTATAGACACATAGAGAAATATA  2356
+
+Query  13857  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  13916
+              ||   ||| ||||| ||||||| ||||||||||||||||| |||||||||||||||| ||
+Sbjct  2357   CATACAAATATATCAACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGTAA  2416
+
+Query  13917  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  13976
+               | ||||||||||||||| | | |||||||||||||||||||  |||||  ||| |||| 
+Sbjct  2417   GATACATACAAATAAAGCCATAGACACATAAAGAAATATACATATAAAGTCATCAACACA  2476
+
+Query  13977  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  14036
+              || ||||||||||| ||||| ||||||||||||||||||| | |||||||||||||||||
+Sbjct  2477   AAAAGAAACAGACACATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  2536
+
+Query  14037  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  14096
+               |  ||||||||||| ||||||  |||||| ||| ||||||| |||||||||||||||| 
+Sbjct  2537   TAGCCACATAAAGAAGTATACATATAAAGAAATCCACACGAAAAGAAACAGACATATAAT  2596
+
+Query  14097  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  14156
+               ||||||||||||||||||| | ||||||||||||||||| | |||| ||||| ||||||
+Sbjct  2597   CATATAAACACATAGAGAAATATACATACAAATAAAGCTATAGACACGTAAAGTAATATA  2656
+
+Query  14157  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  14216
+              ||  |||||||||| |||| || |||||| ||| |||||| |||||||||||||||||||
+Sbjct  2657   CATATAAAGATATCAACACAAAAAGAAACGGACCTATAAACATATAAACACATAGAGAAA  2716
+
+Query  14217  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  14276
+               | ||||||||||||||||| | ||||| |||||||||||||  |||||||||| |||||
+Sbjct  2717   TATACATACAAATAAAGCTATAGACACAGAAAGAAATATACATATAAAGATATCAACACG  2776
+
+Query  14277  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  14336
+              || ||||||||| | ||||| ||||||||||||||||||| | |||||||||||||||||
+Sbjct  2777   AAAAGAAACAGAGACATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  2836
+
+Query  14337  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  14396
+               | ||  ||| | |||||||||  |||| ||||| ||||||| |||||||||||||||||
+Sbjct  2837   TAGACGTATATATAAATATACATATAAATATATCAACACGAAAAGAAACAGACATATAAA  2896
+
+Query  14397  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  14456
+               |||||||||||||||||||   ||| ||||||||||||| | ||||||||| ||| |||
+Sbjct  2897   CATATAAACACATAGAGAAATGTACAGACAAATAAAGCTATAGACACATAAAAAAACATA  2956
+
+Query  14457  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  14516
+              ||  |||||||||| ||||||| ||||||||||||||| | |||||||||||||||||||
+Sbjct  2957   CATGTAAAGATATCAACACGAAAAGAAACAGACATATAGACATATAAACACATAGAGAAA  3016
+
+Query  14517  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  14576
+               | ||||||||||||||| | | |||||||||||||||||||  |||||||||| |||| 
+Sbjct  3017   TAGACATACAAATAAAGCGATAGACACATAAAGAAATATACATATAAAGATATCTACACC  3076
+
+Query  14577  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  14636
+              || ||||||||||||||||| ||||||||||| ||||||| |||||||||||||||||||
+Sbjct  3077   AAAAGAAACAGACATATAAACATATAAACACAAAGAGAAATACACATACAAATAAAGCTA  3136
+
+Query  14637  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  14696
+               |  ||||||||||||||||||  |||||||||| ||||||| |||||||||| ||||||
+Sbjct  3137   TAGCCACATAAAGAAATATACATATAAAGATATCAACACGAAAAGAAACAGACTTATAAA  3196
+
+Query  14697  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  14756
+               ||||||||||||||||||| | ||||||||| ||||||| | |||||||||||||||||
+Sbjct  3197   CATATAAACACATAGAGAAATATACATACAAAGAAAGCTATAGACACATAAAGAAATATA  3256
+
+Query  14757  caATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaaa  14816
+              ||  |||||||||| ||||||| |||||| ||||||||||  |||| |||||||||||||
+Sbjct  3257   CATATAAAGATATCAACACGAAAAGAAACGGACATATAAACCTATATACACATAGAGAAA  3316
+
+Query  14817  aacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACACG  14876
+               | ||  ||||||| || || | ||||||||||||||||| |  ||||||| || |||||
+Sbjct  3317   TATACGCACAAATACAGTTATAGACACATAAAGAAATATAGATATAAAGATCTCAACACG  3376
+
+Query  14877  AAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagcta  14936
+              || ||||| |||||||| || ||||||||||||||||||| | |||||||||||||||||
+Sbjct  3377   AAAAGAAAGAGACATATTAACATATAAACACATAGAGAAATATACATACAAATAAAGCTA  3436
+
+Query  14937  gacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataaa  14996
+                 |||||||||||||||||||  |||||||||| ||||||| ||||||||| |||| ||
+Sbjct  3437   TCGACACATAAAGAAATATACATCTAAAGATATCAACACGAACAGAAACAGAAATATTAA  3496
+
+Query  14997  tatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatata  15056
+               ||||||||||||||||||| | ||||||||||||||||| | |||||||||||||| ||
+Sbjct  3497   CATATAAACACATAGAGAAATATACATACAAATAAAGCTATAGACACATAAAGAAATGTA  3556
+
+Query  15057  caATTAAAGATATCGACACGAAGa-gaaacagacatataaatatataaacacatagagaa  15115
+              ||  |||||||||| |||||| ||  |||||| | |||||| ||||||||||||||||||
+Sbjct  3557   CATATAAAGATATCCACACGA-GATCAAACAGTCGTATAAACATATAAACACATAGAGAA  3615
+
+Query  15116  aaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACAC  15175
+              | | |||||||||||||||||   ||||||||||  |||||||  |||||||||| ||||
+Sbjct  3616   ATATACATACAAATAAAGCTATTGACACATAAAGGGATATACATATAAAGATATCAACAC  3675
+
+Query  15176  GAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagct  15235
+              ||| |||||||||| |||||| ||||||||||||| ||||| | ||||||||||| ||||
+Sbjct  3676   GAAAAGAAACAGACTTATAAACATATAAACACATAAAGAAATATACATACAAATAGAGCT  3735
+
+Query  15236  agacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataa  15295
+              | | |||||||||||||||||||  ||||||||||||||| || || |||||||||||||
+Sbjct  3736   ATAGACACATAAAGAAATATACATATAAAGATATCGACACTAAAAGCAACAGACATATAA  3795
+
+Query  15296  atatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatat  15355
+              | |||||||| |||||||||| | ||||| ||||||||||| | ||||||||||||||||
+Sbjct  3796   ACATATAAACTCATAGAGAAATATACATAAAAATAAAGCTATAGACACATAAAGAAATAT  3855
+
+Query  15356  acaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaa  15415
+              |||  |||||||||||||||||| ||||||||||||||||| |||||| |||||| ||||
+Sbjct  3856   ACATATAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAACCACATAAAGAA  3915
+
+Query  15416  aaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGACAC  15475
+              | | ||||||||||||||||| | | |||||||||||||||||  |||||||||||||||
+Sbjct  3916   ATATACATACAAATAAAGCTATAGAAACATAAAGAAATATACATATAAAGATATCGACAC  3975
+
+Query  15476  GAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagct  15535
+              ||| ||||||||||||||||| |||||||||||||||||||   ||||||||||||||||
+Sbjct  3976   GAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATTTACATACAAATAAAGCT  4035
+
+Query  15536  agacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatataa  15595
+              | | ||||||||||||| ||||| ||||||||||||||||||  ||||||||||| ||||
+Sbjct  4036   ATAGACACATAAAGAAACATACATTTAAAGATATCGACACGAGAAGAAACAGACAAATAA  4095
+
+Query  15596  atatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaatat  15655
+              | ||||||||| |||||||||    |||||||||| ||||| | ||||||||||||||| 
+Sbjct  4096   ACATATAAACAGATAGAGAAATTTTCATACAAATACAGCTATAGACACATAAAGAAATAC  4155
+
+Query  15656  acaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagagaa  15715
+              |||  |||||||||||||||||| |||||||||||||| || ||||||||||||||||||
+Sbjct  4156   ACATATAAAGATATCGACACGAAAAGAAACAGACATATGAACATATAAACACATAGAGAA  4215
+
+Query  15716  aaacacatacaaataaagctagacacacataaagaaatatacaATTAAA-GATATCGACA  15774
+              | | |||||||| |||||||| | ||||||||||||||||||| |  || || |||| ||
+Sbjct  4216   ATATACATACAACTAAAGCTATAGACACATAAAGAAATATACA-TACAAGGAGATCGCCA  4274
+
+Query  15775  CGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaagc  15834
+              |||| ||||||||||||||||| ||||||| |||||||||     |||||||||||||||
+Sbjct  4275   CGAAAAGAAACAGACATATAAACATATAAAAACATAGAGATTTTTACATACAAATAAAGC  4334
+
+Query  15835  tagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatata  15894
+              || | |||||||||||||||||||  |||||||||||||||||| | ||| |||||||||
+Sbjct  4335   TATAGACACATAAAGAAATATACATGTAAAGATATCGACACGAAAATAAAAAGACATATA  4394
+
+Query  15895  aatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaata  15954
+              || ||||||||||||||||||| | ||||||||||||||||| | |||||||||||||||
+Sbjct  4395   AACATATAAACACATAGAGAAATATACATACAAATAAAGCTAAAGACACATAAAGAAATA  4454
+
+Query  15955  taca-ATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagag  16013
+              |||| |||  ||||| ||| ||||| |||||||||||||||||||||| |||||||||||
+Sbjct  4455   TACATATT-TAGATAGCGAAACGAAAAGAAACAGACATATAAATATATCAACACATAGAG  4513
+
+Query  16014  aaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCGAC  16073
+              ||| | |||||||||||||||||   |||||| ||||||||||||  | |||||||||| 
+Sbjct  4514   AAATATACATACAAATAAAGCTATTGACACATTAAGAAATATACATATGAAGATATCGAA  4573
+
+Query  16074  ACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataaag  16133
+              ||||| ||||||||| ||| ||| ||||||||||||||||||| | |||| |||  ||||
+Sbjct  4574   ACGAAAAGAAACAGAGATAAAAACATATAAACACATAGAGAAATATACATCCAATGAAAG  4633
+
+Query  16134  ctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacatat  16193
+              ||| |  ||||||| ||| ||||||  ||||||| |||||||||| ||||||||||||||
+Sbjct  4634   CTATAGCCACATAAGGAAGTATACATATAAAGATCTCGACACGAAAAGAAACAGACATAT  4693
+
+Query  16194  aaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaaat  16253
+              ||| ||||||||||||||||||| | ||||||||| |||||||   ||||||||||||||
+Sbjct  4694   AAACATATAAACACATAGAGAAATATACATACAAACAAAGCTATCGACACATAAAGAAAT  4753
+
+Query  16254  atacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatagag  16313
+              |||||   ||||||||||||||||| |||||||||||||| || | ||||||| ||||||
+Sbjct  4754   ATACACACAAAGATATCGACACGAAAAGAAACAGACATATTAACACATAAACATATAGAG  4813
+
+Query  16314  aaaaacacatacaaataaagcta--gacacacataaagaaatatacaATTAAAGATATCG  16371
+              ||| | |||||||||||||||||  ||||| | ||||||| ||||||  |||||||||||
+Sbjct  4814   AAATATACATACAAATAAAGCTATTGACAC-C-TAAAGAACTATACATATAAAGATATCG  4871
+
+Query  16372  ACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataa  16431
+              ||||||| |||||||||||| | || ||||||||||||||||||| | ||||||| ||||
+Sbjct  4872   ACACGAAAAGAAACAGACATCTCAACATATAAACACATAGAGAAATATACATACACATAA  4931
+
+Query  16432  agctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacat  16491
+              ||||| | |||||||||||||||||||  ||||| ||||||| |||| |||||||||| |
+Sbjct  4932   AGCTATAGACACATAAAGAAATATACATATAAAGCTATCGACGCGAAAAGAAACAGACCT  4991
+
+Query  16492  ataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaa  16551
+              ||||| |||| ||||| |||||  | | ||||||||||||||||| | ||||||||||||
+Sbjct  4992   ATAAACATATCAACACTTAGAGGTATATACATACAAATAAAGCTACAGACACATAAAGAA  5051
+
+Query  16552  atatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatag  16611
+              |||||||  |||||||||||||||||| ||||||||||||||||| ||||||||||||||
+Sbjct  5052   ATATACATATAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATAG  5111
+
+Query  16612  agaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATCG  16671
+              ||||| | ||||||||||||||||| | |||||||||||||||||||  |||||||  ||
+Sbjct  5112   AGAAATATACATACAAATAAAGCTATAGACACATAAAGAAATATACATATAAAGATTGCG  5171
+
+Query  16672  ACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaataa  16731
+              ||||||| ||| ||||||||||||| ||||||||||||||||||| | ||||||||||||
+Sbjct  5172   ACACGAAAAGACACAGACATATAAACATATAAACACATAGAGAAATATACATACAAATAA  5231
+
+Query  16732  agctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagacat  16791
+              ||||| | ||||||||||||||||||   |||||||||||||||||| ||||||||||||
+Sbjct  5232   AGCTATAGACACATAAAGAAATATACTTATAAAGATATCGACACGAAAAGAAACAGACAT  5291
+
+Query  16792  ataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaagaa  16851
+              ||||| |||||| |||||||||||| | |||||||||| |||||| ||| ||||||| | 
+Sbjct  5292   ATAAACATATAAGCACATAGAGAAATATACATACAAATTAAGCTATACATACATAAAAAG  5351
+
+Query  16852  atatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacatag  16911
+              |||||||  |||||||||||||||||| ||||||||||||||| | |||| |||||||||
+Sbjct  5352   ATATACATATAAAGATATCGACACGAAAAGAAACAGACATATACACATATCAACACATAG  5411
+
+Query  16912  agaaaaacacatacaaataaagctagacacacataaagaaatataca-ATTAAAGATATC  16970
+              |||||   ||||||||||||||||| | |||||||| |||||||||| | | ||||||||
+Sbjct  5412   AGAAATTTACATACAAATAAAGCTATAGACACATAACGAAATATACATAGT-AAGATATC  5470
+
+Query  16971  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  17030
+              | |||||| ||||||||||||| ||| ||||||||||||||||||| | |||||||||||
+Sbjct  5471   GCCACGAAAAGAAACAGACATAGAAACATATAAACACATAGAGAAATATACATACAAATA  5530
+
+Query  17031  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  17090
+              || |||   |||||||||||||||||||  |||| |||||||||||||||||| ||||||
+Sbjct  5531   AAACTATTGACACATAAAGAAATATACATATAAATATATCGACACGAAGAGAACCAGACA  5590
+
+Query  17091  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  17150
+              |||||| ||||||||||||||||||| | ||||||||||||||||| | |||||||||||
+Sbjct  5591   TATAAACATATAAACACATAGAGAAATATACATACAAATAAAGCTATAAACACATAAAGA  5650
+
+Query  17151  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  17210
+              ||||||||  ||||||||||||||||||  ||||||||||| |||| |||||||||||| 
+Sbjct  5651   AATATACATATAAAGATATCGACACGAAAGGAAACAGACATCTAAACATATAAACACATG  5710
+
+Query  17211  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  17270
+              |||||| | ||||||||||||||| | | ||||||||| |||||||||  ||||||||||
+Sbjct  5711   GAGAAAGATACATACAAATAAAGCGATAGACACATAAATAAATATACATATAAAGATATC  5770
+
+Query  17271  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  17330
+              ||||| || ||||||||||||||||  ||||||||||||||||||| | ||| |||||||
+Sbjct  5771   GACACCAAAAGAAACAGACATATAACCATATAAACACATAGAGAAATATACAAACAAATA  5830
+
+Query  17331  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  17390
+              |||||| | |||||||||||||||||||   ||||||| ||||||||| |||||||||||
+Sbjct  5831   AAGCTATAGACACATAAAGAAATATACATAGAAAGATACCGACACGAAAAGAAACAGACA  5890
+
+Query  17391  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  17450
+              |||||| ||||||||||||||||||| | || |||||||||||||| | |||||||||||
+Sbjct  5891   TATAAACATATAAACACATAGAGAAATATACCTACAAATAAAGCTATAGACACATAAAGA  5950
+
+Query  17451  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  17510
+              ||| ||||  |||||||||||||||||| |||||||||||||| || |||||||| ||||
+Sbjct  5951   AATCTACATATAAAGATATCGACACGAAAAGAAACAGACATATTAACATATAAACGCATA  6010
+
+Query  17511  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  17570
+              |||||| | ||||||||||| ||||| | |||||||||||||||||||  ||||||||||
+Sbjct  6011   GAGAAATATACATACAAATATAGCTATAGACACATAAAGAAATATACATATAAAGATATC  6070
+
+Query  17571  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  17630
+              |||||||| ||||||||||||| ||| ||||||||||||||||||| | |||||||||||
+Sbjct  6071   GACACGAAAAGAAACAGACATACAAACATATAAACACATAGAGAAATATACATACAAATA  6130
+
+Query  17631  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  17690
+              |||||| | |||||||||||||||||||  ||||||||||||| |||| |||||||||||
+Sbjct  6131   AAGCTATAGACACATAAAGAAATATACATATAAAGATATCGACGCGAAAAGAAACAGACA  6190
+
+Query  17691  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  17750
+              |||||| ||||||||||||||||||| | |||| |||||||||||| | |||||||||||
+Sbjct  6191   TATAAACATATAAACACATAGAGAAATATACATTCAAATAAAGCTATAGACACATAAAGA  6250
+
+Query  17751  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  17810
+              || |||||  || ||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  6251   AAGATACATATAGAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  6310
+
+Query  17811  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  17870
+              |||||| | |||| ||||||| |||| |||||||||||||||||||||   |||||||||
+Sbjct  6311   GAGAAATATACATGCAAATAAGGCTATACACACATAAAGAAATATACATAAAAAGATATC  6370
+
+Query  17871  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  17930
+              |||||||| ||||||||||||||||| ||||||||||||||||||| | |||||||||||
+Sbjct  6371   GACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACAAATA  6430
+
+Query  17931  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  17990
+              |||||| |||||| ||||||||||||||  |||||||||||||||||| | |||||||||
+Sbjct  6431   AAGCTATACACACGTAAAGAAATATACATATAAAGATATCGACACGAAAAAAAACAGACA  6490
+
+Query  17991  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  18050
+              |||||| | |||||||||| |||| | | ||||||||| ||||||| |||||||||||||
+Sbjct  6491   TATAAACAAATAAACACATGGAGACATATACATACAAAGAAAGCTATACACACATAAAGA  6550
+
+Query  18051  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  18110
+              ||||||||  |||||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  6551   AATATACATATAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  6610
+
+Query  18111  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  18170
+              |||||| | |||||| |||||| ||| ||||||||||||||||||||| |||||||||||
+Sbjct  6611   GAGAAATATACATACCAATAAACCTATACACACATAAAGAAATATACATTTAAAGATATC  6670
+
+Query  18171  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  18230
+               ||||||| ||||||||||||||||| ||||||||||||||||||| | ||||||||| |
+Sbjct  6671   TACACGAAAAGAAACAGACATATAAACATATAAACACATAGAGAAATATACATACAAAGA  6730
+
+Query  18231  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGagaaacagaca  18290
+              |||||| ||||||||| ||||||||||| ||||||||||||||||||| |||||||||||
+Sbjct  6731   AAGCTATACACACATATAGAAATATACATTTAAAGATATCGACACGAAAAGAAACAGACA  6790
+
+Query  18291  tataaatatataaacacatagagaaaaacacatacaaataaagctagacacacataaaga  18350
+              ||||||  |||||||||||||||||| | ||||||||  ||||||| |||||||||||||
+Sbjct  6791   TATAAACCTATAAACACATAGAGAAATATACATACAATGAAAGCTATACACACATAAAGA  6850
+
+Query  18351  aatatacaATTAAAGATATCGACACGAAGagaaacagacatataaatatataaacacata  18410
+              |||||||| ||||||||||||||||||| ||||||||||||||||| |||||||||||||
+Sbjct  6851   AATATACATTTAAAGATATCGACACGAAAAGAAACAGACATATAAACATATAAACACATA  6910
+
+Query  18411  gagaaaaacacatacaaataaagctagacacacataaagaaatatacaATTAAAGATATC  18470
+              |||||| | ||||||||||||||||| ||||||||||||||||||||| |||||||| ||
+Sbjct  6911   GAGAAATATACATACAAATAAAGCTATACACACATAAAGAAATATACATTTAAAGATCTC  6970
+
+Query  18471  GACACGAAGagaaacagacatataaatatataaacacatagagaaaaacacatacaaata  18530
+              |||||||| ||||||||||||||||| |||||||| | |||||||| | |||||||||||
+Sbjct  6971   GACACGAAAAGAAACAGACATATAAACATATAAACGCCTAGAGAAATATACATACAAATA  7030
+
+Query  18531  aagctagacacacataaagaaatatacaATTAAAGATATCGACACGAAGAGAAACAGACA  18590
+              |||||| ||||| |||||||||| |||| ||||||||||||||||||| |||||||||||
+Sbjct  7031   AAGCTATACACATATAAAGAAATGTACATTTAAAGATATCGACACGAAAAGAAACAGACA  7090
+
+Query  18591  TATAAATATATAAACACATAGAGAAA  18616
+              ||||||||||||||||||||||||||
+Sbjct  7091   TATAAATATATAAACACATAGAGAAA  7116
+
+
+
+
+
